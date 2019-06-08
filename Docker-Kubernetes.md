@@ -5,6 +5,7 @@ https://www.3pillarglobal.com/insights/building-a-microservice-architecture-with
 https://www.3pillarglobal.com/insights/building-a-microservice-architecture-with-spring-boot-and-docker-part-ii
 https://www.3pillarglobal.com/insights/building-a-microservice-architecture-with-spring-boot-and-docker-part-iii
 https://www.3pillarglobal.com/insights/building-a-microservice-architecture-with-spring-boot-and-docker-part-iv
+https://stackify.com/guide-docker-java/
 
 
 ##### Shared memory between containers
