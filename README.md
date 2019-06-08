@@ -1,7 +1,7 @@
 Project to record links on different topics:
 
 #### Microservices
-#### [Docker and Kubermetes](https://github.com/psurti/Note-Links/blob/master/Docker-K8s.md)
+#### [Docker and Kubermetes](https://github.com/psurti/Notes/blob/master/Docker-Kubernetes.md)
 ```
  % docker-machine start linux
  % docker ps
