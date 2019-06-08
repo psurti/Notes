@@ -23,3 +23,7 @@ Apply > Dry-Run > Save
 See Team > Remote > Push to Gerrit and Fetch from Gerrit actions
 ```
 https://eclipsesource.com/blogs/2014/03/07/how-to-get-the-push-to-gerrit-action-back-with-egit/
+
+
+#### Private branches and merging to Public branch
+https://sandofsky.com/blog/git-workflow.html
