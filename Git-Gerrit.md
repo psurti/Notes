@@ -26,4 +26,9 @@ https://eclipsesource.com/blogs/2014/03/07/how-to-get-the-push-to-gerrit-action-
 
 
 #### Private branches and merging to Public branch
+```
+git checkout master
+git merge --squash private_feature_branch
+git commit -v
+```
 https://sandofsky.com/blog/git-workflow.html
