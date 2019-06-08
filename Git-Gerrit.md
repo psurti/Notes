@@ -32,3 +32,9 @@ git merge --squash private_feature_branch
 git commit -v
 ```
 https://sandofsky.com/blog/git-workflow.html
+
+
+#### Branch-off from a previous tagged commit
+````
+git checkout -b newbranch v1.0
+````
