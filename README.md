@@ -2,6 +2,12 @@ Project to record links on different topics:
 
 #### Microservices
 #### [Docker and Kubermetes](https://github.com/psurti/Note-Links/blob/master/Docker-K8s.md)
+```
+ % docker-machine start linux
+ % docker ps
+ % docker images
+ % docker run -it alpine sh
+```
 #### Gerrit
 #### Git
 #### Jenkins
