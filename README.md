@@ -8,8 +8,9 @@ Bookmarks on different topics:
  % docker images
  % docker run -it alpine sh
 ```
-#### Gerrit
-#### Git
+#### [Git and Gerrit](https://github.com/psurti/Notes/blob/master/Git-Gerrit.md)
+```
+```
 #### Jenkins
 #### Gradle
 #### Lucene
