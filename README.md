@@ -6,7 +6,9 @@ Project to record links on different topics:
 ### Git
 ### Jenkins
 ### Gradle
+### Lucene
 ### Elasticsearch
+### Solr
 ### GoLang
 ### Spring boot/framework
 ### Java
