@@ -1,4 +1,4 @@
-Project to record links on different topics:
+Bookmarks on different topics:
 
 #### Microservices
 #### [Docker and Kubermetes](https://github.com/psurti/Notes/blob/master/Docker-Kubernetes.md)
