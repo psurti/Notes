@@ -40,7 +40,8 @@ git checkout -b newbranch v1.0
 ````
 
 #### Log history
-    {various entries}
+
+{various entries}
 ````
 git log --pretty=oneline --max-count=2
 git log --pretty=oneline --since='5 minutes ago'
@@ -48,11 +49,11 @@ git log --pretty=oneline --until='5 minutes ago'
 git log --pretty=oneline --author=<your name>
 git log --pretty=oneline --all
 ````
-   {changes made within last week (optional --author=prsurt)}
+{changes made within last week (optional --author=prsurt)}
 ````
 git log --all --pretty=format:"%h %cd %s (%an)" --since='7 days ago'
 ````
-   {fancy output}
+{fancy output}
 ````
 git log --pretty=format:"%h %ad | %s%d [%an]" --graph --date=short
 ````
@@ -62,11 +63,11 @@ git config --global alias.st status
 ````
 
 #### Undo last commit 
-   {with original and cancelled commits in history}
+{with original and cancelled commits in history}
 ````
 git revert HEAD
 ````
-   {no recorded history}
+{no recorded history}
 ````
 git reset --hard <tag|commit-id>
 ````
@@ -87,7 +88,7 @@ git fetch origin master
 git reset --hard FETCH_HEAD
 git clean -di
 ````
-    {variation}
+{another variation}
 ````
  git fetch
  git reset --hard origin/your-branch-name
