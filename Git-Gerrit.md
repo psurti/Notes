@@ -39,7 +39,8 @@ https://sandofsky.com/blog/git-workflow.html
 git checkout -b newbranch v1.0
 ````
 
-#### 'git log' display various entries
+#### Log history
+    {various entries}
 ````
 git log --pretty=oneline --max-count=2
 git log --pretty=oneline --since='5 minutes ago'
@@ -47,22 +48,20 @@ git log --pretty=oneline --until='5 minutes ago'
 git log --pretty=oneline --author=<your name>
 git log --pretty=oneline --all
 ````
-
-#### 'git log' changes made within last week (optional --author=prsurt)
+   {changes made within last week (optional --author=prsurt)}
 ````
 git log --all --pretty=format:"%h %cd %s (%an)" --since='7 days ago'
 ````
-
-#### 'git log' fancy output
+   {fancy output}
 ````
 git log --pretty=format:"%h %ad | %s%d [%an]" --graph --date=short
 ````
-#### alias a git command
+#### Alias a git command
 ````
 git config --global alias.st status
 ````
 
-#### undo last commit 
+#### Undo last commit 
    {with original and cancelled commits in history}
 ````
 git revert HEAD
@@ -71,7 +70,13 @@ git revert HEAD
 ````
 git reset --hard <tag|commit-id>
 ````
-#### amend an existing commit
+#### Amend an existing commit
 ````
 git commit -m "fix last existing commit"
 ````
+
+#### Rebase vs Merge
+Don’t use the rebase command …
+1. If the branch is public and shared. Rewriting such branches will hinder the work of other team members.
+2. When the exact commit branch history is important (because the rebase command rewrites the history of commits).
+Given the above recommendations, I prefer to use rebase for short-term, local branches and the merge command for branches in the public repository.
