@@ -87,3 +87,8 @@ git fetch origin master
 git reset --hard FETCH_HEAD
 git clean -di
 ````
+    {variation}
+````
+ git fetch
+ git reset --hard origin/your-branch-name
+ ````
