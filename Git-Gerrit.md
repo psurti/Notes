@@ -57,3 +57,7 @@ git log --all --pretty=format:"%h %cd %s (%an)" --since='7 days ago'
 ````
 git log --pretty=format:"%h %ad | %s%d [%an]" --graph --date=short
 ````
+#### alias a git command
+````
+git config --global alias.st status
+````
