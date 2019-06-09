@@ -62,7 +62,12 @@ git log --pretty=format:"%h %ad | %s%d [%an]" --graph --date=short
 git config --global alias.st status
 ````
 
-#### undo last commit
+#### undo last commit 
+##### {with original and cancelled commits in history}
 ````
 git revert HEAD
+````
+##### {no recorded history}
+````
+git reset...
 ````
