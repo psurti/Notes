@@ -63,11 +63,11 @@ git config --global alias.st status
 ````
 
 #### undo last commit 
-  ##### {with original and cancelled commits in history}
+   {with original and cancelled commits in history}
 ````
 git revert HEAD
 ````
-  ##### {no recorded history}
+   {no recorded history}
 ````
 git reset...
 ````
