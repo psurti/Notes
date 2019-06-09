@@ -111,3 +111,8 @@ git checkout HEAD <file>
 ````
 git diff --name-only --diff-filter=U
 ````
+
+#### Undo tbe last branch
+````
+git reset --merge ORIG_HEAD
+````
