@@ -62,14 +62,22 @@ git log --pretty=format:"%h %ad | %s%d [%an]" --graph --date=short
 git config --global alias.st status
 ````
 
-#### Undo last commit 
+#### Undo a  commit 
 {with original and cancelled commits in history}
 ````
-git revert HEAD
+git revert <HEAD|commit-id>
 ````
-{no recorded history}
+{...discard all changes since then}
 ````
 git reset --hard <tag|commit-id>
+````
+{...preserve all changes as unstaged changes}
+````
+git reset <commit-id>
+````
+{....preserve uncommitted local changes}
+````
+git reset --keep <commit-id>
 ````
 #### Amend an existing commit
 ````
