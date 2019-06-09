@@ -39,7 +39,7 @@ https://sandofsky.com/blog/git-workflow.html
 git checkout -b newbranch v1.0
 ````
 
-#### Controlling 'git log' display entries
+#### 'git log' display various entries
 ````
 git log --pretty=oneline --max-count=2
 git log --pretty=oneline --since='5 minutes ago'
@@ -48,13 +48,12 @@ git log --pretty=oneline --author=<your name>
 git log --pretty=oneline --all
 ````
 
-#### git log changes made within last week (optional --author=prsurt)
-Details are provided in the git-log instruction.
+#### 'git log' changes made within last week (optional --author=prsurt)
 ````
 git log --all --pretty=format:"%h %cd %s (%an)" --since='7 days ago'
 ````
 
-#### git log fancy output
+#### 'git log' fancy output
 ````
 git log --pretty=format:"%h %ad | %s%d [%an]" --graph --date=short
 ````
