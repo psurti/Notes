@@ -69,5 +69,5 @@ git revert HEAD
 ````
    {no recorded history}
 ````
-git reset...
+git reset --hard <tag|commit-id>
 ````
