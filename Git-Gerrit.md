@@ -107,4 +107,7 @@ git clean -di
 ````
 git checkout HEAD <file>
 ````
+#### List files that have merged conflicts
+````
+git diff --name-only --diff-filter=U
 ````
