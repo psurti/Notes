@@ -20,6 +20,7 @@ Bookmarks on different topics:
 #### Spring boot/framework
 #### Java
 #### Redis
+#### Hazelcast
 #### Python
 #### Nodejs
 #### React.js
