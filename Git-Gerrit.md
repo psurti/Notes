@@ -93,3 +93,8 @@ git clean -di
  git fetch
  git reset --hard origin/your-branch-name
  ````
+#### Discard local changes in a file
+````
+git checkout HEAD <file>
+````
+````
