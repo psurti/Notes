@@ -71,3 +71,7 @@ git revert HEAD
 ````
 git reset --hard <tag|commit-id>
 ````
+#### amend an existing commit
+````
+git commit -m "fix last existing commit"
+````
