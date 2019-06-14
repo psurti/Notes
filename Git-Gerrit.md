@@ -116,3 +116,12 @@ git diff --name-only --diff-filter=U
 ````
 git reset --merge ORIG_HEAD
 ````
+
+#### What has changed between local and remote repository?
+````
+example:
+git fetch --dry-run (lets you know there are new changes to remote repository)
+  57ae6c5..46a309e  master     -> origin/master
+
+git diff 57ae6c5..46a309e (lets you know all the files changed!)
+````
