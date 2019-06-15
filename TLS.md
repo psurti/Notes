@@ -17,7 +17,7 @@ ca.crt is the CA authority that is part of the truststore
 curl -v --cacert ca\ca.crt --cert-type P12 --cert client.p12:changeit https://localhost:8000
 ````
 
-#### Where are keys and certs stored in keystore and truststore
+#### Where are keys and certs stored in keystore and truststore (2-way)?
 ```
 server.keystore:
  private server key
@@ -34,4 +34,13 @@ client.keystore:
 client.truststore:
   public server certificate
   public client certificate
+```
+
+#### keystore and truststore (1-way)?
+```
+keytool.exe -genkey -keyalg RSA -alias localhost -keystore keystore.jks -storepass password123 -validity 360
+
+keytool.exe -export -alias localhost -file localhost.cer -keystore keystore.jks
+
+keytool.exe -import -v -trustcacerts -alias localhost -file localhost.cer -keystore truststore.jks
 ```
