@@ -44,3 +44,11 @@ keytool.exe -export -alias localhost -file localhost.cer -keystore keystore.jks
 
 keytool.exe -import -v -trustcacerts -alias localhost -file localhost.cer -keystore truststore.jks
 ```
+#### How to extract key and certificate from PKCS12 (Java keystore)?
+````
+Export certificate using openssl:
+openssl pkcs12 -in keystore.p12  -nokeys -out cert.pem
+
+Export unencrypted private key:
+openssl pkcs12 -in keystore.p12  -nodes -nocerts -out key.pem
+````
