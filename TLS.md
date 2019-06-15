@@ -16,3 +16,22 @@ ca.crt is the CA authority that is part of the truststore
 ````
 curl -v --cacert ca\ca.crt --cert-type P12 --cert client.p12:changeit https://localhost:8000
 ````
+
+#### Where are keys and certs stored in keystore and truststore
+```
+server.keystore:
+ private server key
+ public server certificate
+ 
+server.truststore:
+  public cient certificate
+  public server certificate
+  
+client.keystore:
+  private client key
+  public client certificate
+
+client.truststore:
+  public server certificate
+  public client certificate
+```
