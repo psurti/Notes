@@ -36,7 +36,7 @@ client.truststore:
   public client certificate
 ```
 
-#### keystore and truststore (1-way)?
+#### Setup keystore and truststore (1-way)
 ```
 keytool.exe -genkeypair -keyalg RSA -alias localhost -keystore keystore.jks -storepass password123 -validity 360 -storetype pkcs12
 
