@@ -38,7 +38,7 @@ client.truststore:
 
 #### keystore and truststore (1-way)?
 ```
-keytool.exe -genkey -keyalg RSA -alias localhost -keystore keystore.jks -storepass password123 -validity 360
+keytool.exe -genkeypair -keyalg RSA -alias localhost -keystore keystore.jks -storepass password123 -validity 360 -storetype pkcs12
 
 keytool.exe -export -alias localhost -file localhost.cer -keystore keystore.jks
 
