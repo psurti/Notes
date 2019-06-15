@@ -5,7 +5,8 @@ https://www.thomasvitale.com/https-spring-boot-ssl-certificate/
 
 #### How to create a P12 (JKS keystore) with openssl
 ````
-openssl pkcs12 -export -in client\client.crt -inkey client\client.key -chain -CAfile ca\ca.crt -name "localhost" -out client.p12
+openssl pkcs12 -export -in client\client.crt -inkey client\client.key -chain -CAfile ca\ca.crt 
+-name "localhost" -out client.p12
 ````
 
 #### Using P12 (Java keystore) to authenticate to a TLS server
