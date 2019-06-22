@@ -11,4 +11,6 @@ https://semaphoreci.com/community/tutorials/build-and-deploy-a-java-web-applicat
 ##### Shared memory between containers
 https://docs.docker.com/engine/reference/run/#ipc-settings---ipc
 
-
+##### Scaling elasticsearch with Kubernetes
+https://medium.appbase.io/scaling-an-elasticsearch-cluster-with-kubernetes-120991de1451
+https://medium.appbase.io/deploy-elasticsearch-with-kubernetes-on-aws-in-10-steps-7913b607abda
