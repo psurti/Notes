@@ -14,7 +14,7 @@ Bookmarks on different topics:
 #### Jenkins
 #### Gradle
 #### Lucene
-#### Elasticsearch
+#### [Elasticsearch](https://github.com/psurti/Notes/blob/master/ElasticSearch.md)
 #### Solr
 #### GoLang
 #### Spring boot/framework
