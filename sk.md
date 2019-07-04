@@ -4,31 +4,31 @@
          
  **|| Shalok ||**
 
- Shaantan shaashvatamaprameyamanaghan nirvaanashaantipradan.
+ Shaantan shaashvatamaprameyamanagham nirvaanashaantipradam
 
- Brahmaashambhuphaneendrasevyamanishan vedaantavedyan vibhum.
+ Brahmaashambhuphaneendrasevyamanisham vedaantavedyam vibhum |
 
- Raamaakhyan jagadeeshvaran suragurun maayaamanushyan harin.
+ Raamaakhyam jagadeeshvaram suragurum maayaamanushyam harim
 
- Vandehan karunaakaran raghuvaran bhoopaalachoodaamanim ||1||
-
-
- Naanya sprha raghupate hrdayesmadeeye.
-
- Satyan vadaami ch bhavaanakhilaantaraatma.
-
- Bhaktin prayachchh raghupungav nirbharaan me.
-
- Kaamaadidosharahitan kuru maanasan ch ||2||
+ Vandeham karunaakaram raghuvaram bhoopaalachoodaamanim ||1||
 
 
- Atulitabaladhaaman hemashailaabhadehan.
+ Naanya sprha raghupate hrdayesmadeeye
 
- Danujavanakrshaanun gyaaninaamagraganyam.
+ Satyam vadaami cha bhavaanakhilaantaraatma |
 
- Sakalagunanidhaanan vaanaraanaamadheeshan.
+ Bhaktim prayachchh raghupungav nirbharaam me
+
+ Kaamaadidosharahitam kuru maanasam cha ||2||
+
+
+ Atulitabaladhaamam hemashailaabhadeham
+
+ Danujavanakrshaanum gyaaninaamagraganyam |
+
+ Sakalagunanidhaanam vaanaraanaamadheesham
  
- raghupatipriyabhaktan vaatajaatan namaami ||3||
+ raghupatipriyabhaktam vaatajaatam namaami ||3||
                                              
 
  *|| Chopai ||*
