@@ -1,5 +1,6 @@
                                              
 ## [|| Shri Ram Charit Manas-Sunderkand ||](https://www.youtube.com/watch?v=WDTC_pR-HAw)
+
          
  **|| Shalok ||**
 
@@ -33,23 +34,23 @@
  *|| Chopai ||*
 
 
- Jaamavant ke bachan suhae. suni hanumant hrday ati bhae.
+ Jaamavant ke bachan suhae | suni hanumant hrday ati bhae ||
 
- Tab lagi mohi parikhehu tumh bhaee. sahi dukh kand mool phal khaee.
+ Tab lagi mohi parikhehu tumh bhaee | sahi dukh kand mool phal khaee ||
 
- Jab lagi aavaun seetahi dekhee. hoihi kaaju mohi harash biseshee.
+ Jab lagi aavaun seetahi dekhee | hoihi kaaju mohi harash biseshee ||
 
- Yah kahi nai sabanhi kahun maatha. chaleu harashi hiyan dhari raghunaatha.
+ Yah kahi nai sabanhi kahun maatha | chaleu harashi hiyan dhari raghunaatha ||
 
- Sindhu teer ek bhoodhar sundar. kautuk koodi chadheu ta oopar.
+ Sindhu teer ek bhoodhar sundar | kautuk koodi chadheu ta oopar ||
 
- Baar-baar raghubeer sanbhaaree. tarakeu pavanatanay bal bhaaree.
+ Baar-baar raghubeer sanbhaaree | tarakeu pavanatanay bal bhaaree ||
 
- Jehin giri charan dei hanumanta. chaleu so ga paataal turanta.
+ Jehin giri charan dei hanumanta | chaleu so ga paataal turanta ||
 
- Jimi amogh raghupati kar baana. ehee bhaanti chaleu hanumaana.
+ Jimi amogh raghupati kar baana | ehee bhaanti chaleu hanumaana ||
 
- Jalanidhi raghupati doot bichaaree. tain mainaak hohi shram haaree.
+ Jalanidhi raghupati doot bichaaree | tain mainaak hohi shram haaree ||
 
   
 
