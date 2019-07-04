@@ -1514,9 +1514,13 @@
  
  **_|| Chhand ||_**
 
- Nij Bhavan Gavaneu Sindhu Shreeraghupatihi Yah Mat Bhaayoo | Yah Charit Kali Mal Har Jathaamati Daas Tulasee Gaayoo ||
+ Nij Bhavan Gavaneu Sindhu Shreeraghupatihi Yah Mat Bhaayoo | 
+ 
+ Yah Charit Kali Mal Har Jathaamati Daas Tulasee Gaayoo ||
 
- Sukh Bhavan Sansay Saman Davan Bishaad Raghupati Gun Gana | Taji Sakal Aas Bharos Gaavahi Sunahi Santat Sath Mana ||
+ Sukh Bhavan Sansay Saman Davan Bishaad Raghupati Gun Gana | 
+ 
+ Taji Sakal Aas Bharos Gaavahi Sunahi Santat Sath Mana ||
 
  **|| Doha - 60 ||**
 
