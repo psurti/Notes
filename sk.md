@@ -437,7 +437,7 @@
  Ur aanahu Raghupati prabhutaai | Sun imam bachan tajahu kadaraai ||
 
 
- ||Doha - 15 ||**
+ **|| Doha - 15 ||**
 
  Nisichar nikar patang sam Raghupati baan krusanu | Jananee hriday dheer dharu jare nisaachar jaanu ||
 
@@ -1026,7 +1026,7 @@
 
  Jaasu naam tray taap nasavan | Soi prabhu pragat samuzu jiy Raavan ||
 
- **|| Doha -39 ||**
+ **|| Doha - 39 ||**
 
  Baar baar pad laagau binay karau dasasees | Parihari maan moh mad bhajahu kosalaadhees ||
 
@@ -1050,7 +1050,7 @@
 
  Kaalraati nisichar kul keree | Tehi Sita par preeti ghaneree ||
                                                  
- ||  Doha - 40 ||**
+ **||  Doha - 40 ||**
 
  Taat charan gahi maagau raakhahu mor dulaar | Sita dehu Raam kahu ahit na hoi tumhaar ||
 
