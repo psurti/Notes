@@ -116,7 +116,7 @@
  
  **_|| Chhand ||_**
 
- Kanak kot bichitra mani | Krut sundaraayatana Ghana ||
+ Kanak kot bichitra mani Krut sundaraayatana Ghana |
 
  Chauhatt hatt subatt beethee Chaaru pur bahu bidhi bana ||
 
@@ -124,15 +124,15 @@
 
  Bahuroop nisichar jooth atibal Sen baranat nahin banai ||1||
 
- Ban bag ujpaban baatika | Sar koop baapee sohahi ||
+ Ban bag ujpaban baatika Sar koop baapee sohahi |
 
- Nar naag sur gandharb kanya | Roop muni man mohahee ||
+ Nar naag sur gandharb kanya Roop muni man mohahee ||
 
- Kahu maal deh bisaal sai l Samaan atibal garjahi ||
+ Kahu maal deh bisaal sail Samaan atibal garjahi |
 
  Naana akhaarenh bhirhi bahubidhi Ek ekanh tarjahee ||2||
 
- Kari jatan bhat kotinh bikat Tan nagar chahu disi rachchhahee ||
+ Kari jatan bhat kotinh bikat Tan nagar chahu disi rachchhahee |
 
  Kahu mahish maanush dhenu khar Ajakhal nishaachar bhachchhahi ||
 
@@ -928,7 +928,7 @@
  Jay Raam prabal prataap Kosalnaath gun gan gaavahee ||1||
 
 
- Sahi sak na bhaar udaar Ahipati baar baarhi mohai ||
+ Sahi sak na bhaar udaar Ahipati baar baarhi mohai |
 
  Gah dasan puni puni Kamath Prushth kathor so kimi sohai ||
 
