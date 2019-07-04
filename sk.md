@@ -1,5 +1,6 @@
                                              
-                                                || Shri Ram Charit Manas-Sunderkand ||
+         [|| Shri Ram Charit Manas-Sunderkand ||]
+         
  **|| Shalok ||**
 
  Shaantan shaashvatamaprameyamanaghan nirvaanashaantipradan.
@@ -25,6 +26,8 @@
  Danujavanakrshaanun gyaaninaamagraganyam.
 
  Sakalagunanidhaanan vaanaraanaamadheeshan.
+ 
+ raghupatipriyabhaktan vaatajaatan namaami ||3||
                                              
 
  *|| Chopai ||*
@@ -134,7 +137,7 @@
 
  Ehi laagi Tulasidaas inh kee Katha kachhu ek hai kahee |
 
- Raghubeer sar teerath sareeranhi Tyaagi gati paihahi sahee ||
+ Raghubeer sar teerath sareeranhi Tyaagi gati paihahi sahee ||3||
 
   
  **|| Doha - 3 ||**
@@ -1018,7 +1021,7 @@
                                           
  Jan ranjan bhanjan khal braata | Bed dharm rachchhak sunu bhrata ||
  
- Tohi bayaru taji naaia maatha | Pranataarati bhanjan Raghunaatha ||
+ Taahi bayaru taji naaia maatha | Pranataarati bhanjan Raghunaatha ||
 
  Dehu naath prabhu kahu baidehee | Bhajahu Raam binu hetu sanehee ||
  
@@ -1527,6 +1530,7 @@
  Sakal sumangal daayak Raghunaayak gun gaan | Saadar sunahi te tarahi bhav sindhu bina jalajaan ||
 
 
-
+     || iti shreemadraamcharitmaanase sakalakalikalushvidhvansane 
+        paanchamah sopaanah samaaptah ||
 
                                              
