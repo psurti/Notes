@@ -13,7 +13,7 @@
  Vandeham karunaakaram raghuvaram bhoopaalachoodaamanim ||1||
 
 
- Naanya sprha raghupate hrdayesmadeeye
+ Naanya sprhaa raghupate hrdayesmadeeye
 
  Satyam vadaami cha bhavaanakhilaantaraatma |
 
