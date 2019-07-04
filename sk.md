@@ -1,5 +1,6 @@
                                              
          [|| Shri Ram Charit Manas-Sunderkand ||]
+       (https://www.youtube.com/watch?v=WDTC_pR-HAw)
          
  **|| Shalok ||**
 
@@ -1530,7 +1531,6 @@
  Sakal sumangal daayak Raghunaayak gun gaan | Saadar sunahi te tarahi bhav sindhu bina jalajaan ||
 
 
-     || iti shreemadraamcharitmaanase sakalakalikalushvidhvansane 
-        paanchamah sopaanah samaaptah ||
+     || iti shreemadraamcharitmaanase sakalakalikalushvidhvansane paanchamah sopaanah samaaptah ||
 
                                              
