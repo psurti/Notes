@@ -57,7 +57,9 @@
  **|| Doha - 1 ||**
 
 
- Hanumaan tehi parasa kar puni keenh pranaam | Raam kaaju keenhe binu mohi kahaa bishraam ||
+ Hanumaan tehi parasa kar puni keenh pranaam | 
+ 
+ Raam kaaju keenhe binu mohi kahaa bishraam ||
 
  
  *|| Chopai ||*
@@ -88,7 +90,9 @@
 
  **|| Doha - 2 ||**
                                             
- Raam kaaju sabu karihahu tumh bal buddhi nidhaan | Aasish dei gai so harashi chaleu Hanumaan ||
+ Raam kaaju sabu karihahu tumh bal buddhi nidhaan |
+ 
+ Aasish dei gai so harashi chaleu Hanumaan ||
 
  *|| Chopai ||*
 
@@ -143,7 +147,9 @@
   
  **|| Doha - 3 ||**
 
- Pur rakhavaare dekhi bahu kapi man keenh bichaar | Ati laghu roop dharau nisi nagar karau paisaar ||
+ Pur rakhavaare dekhi bahu kapi man keenh bichaar | 
+ 
+ Ati laghu roop dharau nisi nagar karau paisaar ||
                                             
  
  *|| Chopai ||*
@@ -153,7 +159,7 @@
 
  Naam Lankinee ek nisicharee | So kah chalesi mohi nindaree ||
 
- Jaanehi nahee maramu sath mora| Mor ahar jahaa lagi chora ||
+ Jaanehi nahee maramu sath mora | Mor ahar jahaa lagi chora ||
 
  Muthika ek maha kapi hanee | Rudhir bamat dharanee dhanamanee ||
 
@@ -168,7 +174,9 @@
 
  **|| Doha - 4 ||**
 
- Taat swarg apabarg sukh dharia tula ek ang | Tool na taahi sakal mili jo such lav satsang ||
+ Taat swarg apabarg sukh dharia tula ek ang | 
+ 
+ Tool na taahi sakal mili jo such lav satsang ||
 
  *|| Chopai ||*
 
@@ -191,7 +199,9 @@
   
  **|| Doha - 5 ||**
 
- Raamaayudh ankit gruh sobha barani na jaai | Nav tulsika brund tah dekhi harash kapiraai ||
+ Raamaayudh ankit gruh sobha barani na jaai | 
+ 
+ Nav tulsika brund tah dekhi harash kapiraai ||
 
  *|| Chopai ||*
 
@@ -214,7 +224,9 @@
 
  **|| Doha - 6 ||**
 
- Tab Hanumant kahee sab Raam katha nij naam | Sunat jugal tan pulak man magan sumiri gun graam ||
+ Tab Hanumant kahee sab Raam katha nij naam | 
+ 
+ Sunat jugal tan pulak man magan sumiri gun graam ||
 
  *|| Chopai ||*
 
@@ -236,7 +248,9 @@
 
  **|| Doha - 7 ||**
 
- As mai adham sakha sunu mohu par Rabhubeer | Keenhee krupa sumiri gun bhare bilochan neer ||
+ As mai adham sakha sunu mohu par Rabhubeer | 
+ 
+ Keenhee krupa sumiri gun bhare bilochan neer ||
 
  *|| Chopai ||*
 
@@ -258,7 +272,9 @@
 
  **|| Doha - 8 ||**
 
- Nij pad nayan die man Raam pad kamal leen | Param dukhee bha pavansut dekhi Jaanakee deen ||
+ Nij pad nayan die man Raam pad kamal leen | 
+ 
+ Param dukhee bha pavansut dekhi Jaanakee deen ||
 
  *|| Chopai ||*
 
@@ -282,7 +298,9 @@
 
  **|| Doha - 9 ||**
 
- Aapuhi suni khadyot sam Ramahi bhaanu samaan | Parush bachan suni kaadhi asi bola ati khisiaan ||
+ Aapuhi suni khadyot sam Ramahi bhaanu samaan | 
+ 
+ Parush bachan suni kaadhi asi bola ati khisiaan ||
 
  *|| Chopai ||*
 
@@ -307,7 +325,9 @@
 
  **|| Doha - 10 ||**
 
- Bhavan gayau daskandhar iha pisaachini brund | Sitahi traas dekhaavahi dharahi roop bahu mand ||
+ Bhavan gayau daskandhar iha pisaachini brund | 
+ 
+ Sitahi traas dekhaavahi dharahi roop bahu mand ||
 
  *|| Chopai ||*
 
@@ -330,7 +350,9 @@
 
  **|| Doha - 11 ||**
 
- Jah tah gai sakal tab Sita kar man soch | Maas divas beete mohi maarihi nisichar poch ||
+ Jah tah gai sakal tab Sita kar man soch | 
+ 
+ Maas divas beete mohi maarihi nisichar poch ||
 
  *|| Chopai ||*
 
@@ -361,7 +383,9 @@
 
  **|| Doha - 12 ||**
 
- Kapi kari hriday bichaar deenhi mudrika daari tab | Janu asok angaar deenh harashi uthi kar gaheu ||
+ Kapi kari hriday bichaar deenhi mudrika daari tab | 
+ 
+ Janu asok angaar deenh harashi uthi kar gaheu ||
 
  *|| Chopai ||*
 
@@ -389,7 +413,9 @@
 
  **|| Doha - 13 ||**
 
- Kapi ke bachan saprem suni upaja man biswaas | Jaana man kram bachan yah krupaasindhu kar daas ||
+ Kapi ke bachan saprem suni upaja man biswaas | 
+ 
+ Jaana man kram bachan yah krupaasindhu kar daas ||
 
  *|| Chopai ||*
 
@@ -416,7 +442,9 @@
 
  **|| Doha - 14 ||**
 
- Raghupati kar sandesu ab sunu jananee dhari dheer | As kahi kapi gadagad bhayau bhare bilochan neer ||
+ Raghupati kar sandesu ab sunu jananee dhari dheer | 
+ 
+ As kahi kapi gadagad bhayau bhare bilochan neer ||
 
  *|| Chopai ||*
 
@@ -443,7 +471,9 @@
 
  **|| Doha - 15 ||**
 
- Nisichar nikar patang sam Raghupati baan krusanu | Jananee hriday dheer dharu jare nisaachar jaanu ||
+ Nisichar nikar patang sam Raghupati baan krusanu | 
+ 
+ Jananee hriday dheer dharu jare nisaachar jaanu ||
 
  *|| Chopai ||*
 
@@ -451,7 +481,7 @@
 
  Raam baan rabi ue Jaanakee | Tam barooth kah jaatudhaan kee ||
 
- Abahi maatu mai jaau lavaai| Prabhu aayasu nahi Raam dohaai ||
+ Abahi maatu mai jaau lavaai | Prabhu aayasu nahi Raam dohaai ||
 
  Kachhuk divas jananee dharu dheera | Kapinh sahit aihahi Rabhubeera ||
 
@@ -468,7 +498,9 @@
 
  **|| Doha - 16 ||**
  
- Sunu maata saakhaamrug nahi bal buddhi bisaal | Prabhu prataap te garudahi khaai param laghu byaal ||
+ Sunu maata saakhaamrug nahi bal buddhi bisaal | 
+ 
+ Prabhu prataap te garudahi khaai param laghu byaal ||
 
  *|| Chopai ||*
 
@@ -493,7 +525,9 @@
 
  **|| Doha - 17 ||**
 
- Dekhi buddhi bal nipun kapi kaheu Jaankee jaahu | Raghupati charan hriday dhari taat madhur phal khaahu ||
+ Dekhi buddhi bal nipun kapi kaheu Jaankee jaahu | 
+ 
+ Raghupati charan hriday dhari taat madhur phal khaahu ||
 
  *|| Chopai ||*
 
@@ -516,7 +550,9 @@
   
  **|| Doha - 18 ||**
 
- Kachhu maaresi kachhu mardesi kachhu milaesi dhari dhoori | Kachu puni jaai pukaare prabhu markat bal bhori ||
+ Kachhu maaresi kachhu mardesi kachhu milaesi dhari dhoori | 
+ 
+ Kachu puni jaai pukaare prabhu markat bal bhori ||
 
  *|| Chopai ||*
 
@@ -526,7 +562,7 @@
 
  Chala Indrajit atulit jodha | Bandhu nidhan suni upaja krodha ||
  
- Kapi dekha daarun bhat aava |Katakataai garja aru dhaava ||
+ Kapi dekha daarun bhat aava | Katakataai garja aru dhaava ||
 
  Ati bisaal taru ek upaara | Birath keenh Lankes kumara ||
 
@@ -541,7 +577,9 @@
 
  **|| Doha - 19 ||**
 
- Brahm astra tehi saandha kapi man keenh bichaar | Jau na brahmasar maanau mahima mitai apaar ||
+ Brahm astra tehi saandha kapi man keenh bichaar | 
+ 
+ Jau na brahmasar maanau mahima mitai apaar ||
 
  *|| Chopai ||*
 
@@ -565,7 +603,9 @@
 
  **|| Doha - 20 ||**
 
- Kapihi biloki dasaanan bihasa kahi durbaad | Sutabadh surati keenhi puni upaja hriday bishaad ||
+ Kapihi biloki dasaanan bihasa kahi durbaad | 
+ 
+ Sutabadh surati keenhi puni upaja hriday bishaad ||
 
  *|| Chopai ||*
 
@@ -591,7 +631,9 @@
 
  **|| Doha - 21 ||**
 
- Jaake bal lavales te jitehu charaachar zaari | Taasu doot mai jaa kari hari aanehu priy naari ||
+ Jaake bal lavales te jitehu charaachar zaari | 
+ 
+ Taasu doot mai jaa kari hari aanehu priy naari ||
 
  *|| Chopai ||*
 
@@ -604,6 +646,8 @@
  Sab ke deh param priy swaamee | Maarahi mohi kumaarag gaamee ||
 
  Jinh mohi maara te mai mare | Tehi par bandheu tanay tumhaare ||
+ 
+ mohi na kachu badhe kai laajaa | kinha cahau nija prabhu kara kaajaa ||
 
  Binati karau jori kar raavan | Sunahu maan taji mor sikhaavan ||
 
@@ -616,7 +660,9 @@
 
  **|| Doha - 22 ||**
 
- Pranatapaal Raghunaayak karuna Sindhu kharaari | Gae saran prabhu raakhihai tav aparaadh bisaari ||
+ Pranatapaal Raghunaayak karuna Sindhu kharaari | 
+ 
+ Gae saran prabhu raakhihai tav aparaadh bisaari ||
 
  *|| Chopai ||*
 
@@ -639,7 +685,9 @@
   
  **|| Doha - 23 ||**
 
- Mohmool bahu sool prad tyagahu tam abhimaan | Bhajahu Raam Raghunaayak krupa sindhu Bhagawaan ||
+ Mohmool bahu sool prad tyagahu tam abhimaan | 
+ 
+ Bhajahu Raam Raghunaayak krupa sindhu Bhagawaan ||
 
  *|| Chopai ||*
 
@@ -664,7 +712,9 @@
   
  **|| Doha - 24 ||**
 
- kapi ke mamata poonch par sabahi kahau samuzaai | Tel bori pat baandhi puni paavak dehu lagaai ||
+ kapi ke mamata poonch par sabahi kahau samuzaai | 
+ 
+ Tel bori pat baandhi puni paavak dehu lagaai ||
 
  *|| Chopai ||*
 
@@ -688,7 +738,9 @@
 
  **|| Doha - 25 ||**
 
- Hari prerit tehi avasar chale marut unachaas | Attahaas kari garja kapi badhi laag akaas ||
+ Hari prerit tehi avasar chale marut unachaas | 
+ 
+ Attahaas kari garja kapi badhi laag akaas ||
 
  *|| Chopai ||*
 
@@ -710,7 +762,9 @@
 
  **|| Doha - 26 ||**
 
- Poonch buzaai khoi shram dhari laghu roop bahori | Janaksuta ke aage thaadh bhayau kar jori ||
+ Poonch buzaai khoi shram dhari laghu roop bahori | 
+ 
+ Janaksuta ke aage thaadh bhayau kar jori ||
 
  *|| Chopai ||*
 
@@ -732,7 +786,9 @@
 
  **|| Doha - 27 ||**
 
- Janakasutahi samuzaai kari bahu bidhi dheeraju deenh | Charan kamal siru naai kapi gavanu Raam pahi keenh ||
+ Janakasutahi samuzaai kari bahu bidhi dheeraju deenh | 
+ 
+ Charan kamal siru naai kapi gavanu Raam pahi keenh ||
 
  *|| Chopai ||*
 
@@ -754,7 +810,9 @@
 
  **|| Doha - 28 ||**
 
- Jaai pukaare te sab ban ujaar jubaraaj | Suni Sugreev harash kapi kari aae prabhu kaaj ||
+ Jaai pukaare te sab ban ujaar jubaraaj | 
+ 
+ Suni Sugreev harash kapi kari aae prabhu kaaj ||
 
  *|| Chopai ||*
 
@@ -777,7 +835,9 @@
 
  **|| Doha - 29 ||**
 
- Preeti sahit sab bhete Raghupati karuna punj | Poonchhee kusal naath ab kusal dekhi pad kanj ||
+ Preeti sahit sab bhete Raghupati karuna punj | 
+ 
+ Poonchhee kusal naath ab kusal dekhi pad kanj ||
 
  *|| Chopai ||*
 
@@ -799,7 +859,9 @@
 
  **|| Doha - 30 ||**
  
- Naam paaharu divas nisi dhyaan tumhaar kapaat | Lochan nij pad jantrit jaahi praan kehi baat ||
+ Naam paaharu divas nisi dhyaan tumhaar kapaat | 
+ 
+ Lochan nij pad jantrit jaahi praan kehi baat ||
 
  *|| Chopai ||*
 
@@ -824,7 +886,9 @@
 
  **|| Doha - 31 ||**
 
- Ninish nimish karunaanidhi jaahi kalap sam beeti | Begi chalia prabhu aania bhuj bal khal dal jeeti ||
+ Nimish nimish karunaanidhi jaahi kalap sam beeti | 
+ 
+ Begi chalia prabhu aania bhuj bal khal dal jeeti ||
 
  *|| Chopai ||*
 
@@ -847,7 +911,9 @@
 
  **|| Doha - 32 ||**
  
- Suni prabhu bachan biloki mukh gaat harashi Hanumant | Charan pareu premaakul traahi traahi bhagavant ||
+ Suni prabhu bachan biloki mukh gaat harashi Hanumant | 
+ 
+ Charan pareu premaakul traahi traahi bhagavant ||
 
  *|| Chopai ||*
 
@@ -859,7 +925,7 @@
 
  Kapi uthaai prabhu hriday lagaava | Kar gahi param nikat baithaava ||
 
- Kahu kapi Raavan paalit Lanka | Kehi bidhi daheu durg a ti banka ||
+ Kahu kapi Raavan paalit Lanka | Kehi bidhi daheu durg ati banka ||
 
  Prabhu prasanna jaana Hanumaana | Bola bachan bigat abhimaana ||
 
@@ -871,7 +937,9 @@
 
  **|| Doha - 33 ||**
 
- Taa kahu prabhu kachhu agam nahi jaa par tumh anukool | Tav prabhaav badavaanalahi jaari sakai khalu tool ||
+ Taa kahu prabhu kachhu agam nahi jaa par tumh anukool | 
+ 
+ Tav prabhaav badavaanalahi jaari sakai khalu tool ||
 
  *|| Chopai ||*
 
@@ -893,7 +961,9 @@
 
  **|| Doha - 34 ||**
 
- Kapipati begi bolaae aae juthap jooth | Naana baran atul bal baanar bhaalu barooth ||
+ Kapipati begi bolaae aae juthap jooth | 
+ 
+  Naana baran atul bal baanar bhaalu barooth ||
 
  *|| Chopai ||*
 
@@ -938,7 +1008,9 @@
 
  **|| Doha - 35 ||**
 
- Ehi bidhi jaai krupaanidhi utare saagar teer | Jah tah laage khaan fal bhaalu bipul kapi beer ||
+ Ehi bidhi jaai krupaanidhi utare saagar teer | 
+ 
+ Jah tah laage khaan fal bhaalu bipul kapi beer ||
 
  *|| Chopai ||*
 
@@ -964,7 +1036,9 @@
 
  **|| Doha - 36 ||**
 
- Raam baan ahi gan saris nikar nisaachar bheka | Jab lagi grasat na tab lagi jatanu karahu taji tek ||
+ Raam baan ahi gan saris nikar nisaachar bheka | 
+ 
+ Jab lagi grasat na tab lagi jatanu karahu taji tek ||
 
  *|| Chopai ||*
 
@@ -988,7 +1062,9 @@
 
  **|| Doha - 37 ||**
 
- Sachib baid gur teeni jau priy bolahi bhay aas | Raaj dharm tan teeni kar hoi begihee naas ||
+ Sachib baid gur teeni jau priy bolahi bhay aas | 
+ 
+ Raaj dharm tan teeni kar hoi begihee naas ||
 
  *|| Chopai ||*
 
@@ -1010,7 +1086,9 @@
 
  **|| Doha - 38 ||**
 
- Kaam krodh mad lobh sab nath narak ke panth | Sab parihari Raghubeerahi bhajahu bhajau jehi sant ||
+ Kaam krodh mad lobh sab nath narak ke panth | 
+ 
+ Sab parihari Raghubeerahi bhajahu bhajau jehi sant ||
 
  *|| Chopai ||*
 
@@ -1032,9 +1110,13 @@
 
  **|| Doha - 39 ||**
 
- Baar baar pad laagau binay karau dasasees | Parihari maan moh mad bhajahu kosalaadhees ||
+ Baar baar pad laagau binay karau dasasees | 
+ 
+ Parihari maan moh mad bhajahu kosalaadhees ||
 
- Muni pulasti nij sisya san kahi pathai yah baat | Turat so mai prabhu san kahee paai suavasaru taat||
+ Muni pulasti nij sisya san kahi pathai yah baat | 
+ 
+ Turat so mai prabhu san kahee paai suavasaru taat ||
 
  *|| Chopai ||*
                                                 
@@ -1056,7 +1138,9 @@
                                                  
  **||  Doha - 40 ||**
 
- Taat charan gahi maagau raakhahu mor dulaar | Sita dehu Raam kahu ahit na hoi tumhaar ||
+ Taat charan gahi maagau raakhahu mor dulaar | 
+ 
+ Sita dehu Raam kahu ahit na hoi tumhaar ||
 
  *|| Chopai ||*
 
@@ -1080,7 +1164,9 @@
 
  **|| Doha - 41 ||**
 
- Raam satyasankalp prabhu sabha kaalbas tori | Mai Raghubeer saran ab jaau dehu jani khori ||
+ Raam satyasankalp prabhu sabha kaalbas tori | 
+ 
+ Mai Raghubeer saran ab jaau dehu jani khori ||
 
  *|| Chopai ||*
 
@@ -1102,7 +1188,9 @@
 
  **|| Doha - 42 ||**
 
- Jinh paayanh ke paadukanhi bharatu rahe man laai | Te pad aaju bilokihau inh nayananhi ab jaai ||
+ Jinh paayanh ke paadukanhi bharatu rahe man laai | 
+ 
+ Te pad aaju bilokihau inh nayananhi ab jaai ||
 
  *|| Chopai ||*
 
@@ -1126,7 +1214,9 @@
 
  **|| Doha - 43 ||**
  
- Saranaagat kahu je tajahi nij anahit anumaanee | Te nar paavar paapamay tinhahee bilokat haanee ||
+ Saranaagat kahu je tajahi nij anahit anumaanee | 
+ 
+ Te nar paavar paapamay tinhahee bilokat haanee ||
 
  *|| Chopai ||*
 
@@ -1142,13 +1232,15 @@
 
  Bhed len pathava dasaseesa | Tabahu na kachu bhay haani kapeesa ||
 
- Jag mahu sakha nisaachar jet e | Lachhimanu hanai nimish mahu te te ||
+ Jag mahu sakha nisaachar jete | Lachhimanu hanai nimish mahu te te ||
                                                 
  Jau sabheet aava saranaai | Rakhihau taahi praan kee naai ||
 
  **|| Doha - 44 ||**
 
- Ubhay bhaanti tehi aanahu hasi kah krupaaniket | Jay krupaal kahi kapi chale angad Hanoo samet ||
+ Ubhay bhaanti tehi aanahu hasi kah krupaaniket | 
+ 
+ Jay krupaal kahi kapi chale angad Hanoo samet ||
 
  *|| Chopai ||*
 
@@ -1168,7 +1260,9 @@
 
  **|| Doha - 45 ||**
 
- Shravan sujasu suni aayau prabhu bhanjan bhav bheer |  Traahi traahi aarati haran saran sukhad Rabhubeer ||
+ Shravan sujasu suni aayau prabhu bhanjan bhav bheer |  
+ 
+ Traahi traahi aarati haran saran sukhad Rabhubeer ||
 
  *|| Chopai ||*
 
@@ -1190,7 +1284,9 @@
 
  **|| Doha - 46 ||**
 
- Tab lagi kusal na jeev kahu sapane hu man bishraam | Jab lagi bhajat na Raam kahu sok dhaam taji kaam ||
+ Tab lagi kusal na jeev kahu sapane hu man bishraam | 
+ 
+ Jab lagi bhajat na Raam kahu sok dhaam taji kaam ||
 
  *|| Chopai ||*
  
@@ -1212,7 +1308,9 @@
 
  **|| Doha - 47 ||**
 
- Ahobhagya mama amita ati rama krpa sukha punja | Dekhe'um nayana biranci siva sebya jugala pada kanja ||
+ Ahobhagya mama amita ati rama krpa sukha punja | 
+ 
+ Dekhe'um nayana biranci siva sebya jugala pada kanja ||
 
  *|| Chopai ||*
 
@@ -1234,7 +1332,9 @@
 
  **|| Doha - 48 ||**
 
- Sagun upaasak parahit nirat neeti dradh nem | Te nar praan samaan mam jinh ke dvij pad prem ||
+ Sagun upaasak parahit nirat neeti dradh nem | 
+ 
+ Te nar praan samaan mam jinh ke dvij pad prem ||
 
  *|| Chopai ||*
  
@@ -1260,9 +1360,13 @@
 
  **|| Doha - 49 ||**
 
- Raavan krodh anal nij svaas sameer prachand | Jarat Bibheeshan raakheu deenheu raaju akhand ||
+ Raavan krodh anal nij svaas sameer prachand | 
+ 
+ Jarat Bibheeshan raakheu deenheu raaju akhand ||
 
- Jo sampati siv ravanahi deenhi die das math | Soi sampada Bibheeshanhi sakuchi deenhi Raghunaath ||
+ Jo sampati siv ravanahi deenhi die das math | 
+ 
+ Soi sampada Bibheeshanhi sakuchi deenhi Raghunaath ||
 
  *|| Chopai ||*
 
@@ -1284,7 +1388,9 @@
 
  **|| Doha - 50 ||**
 
- Prabhu tumhaar kulagur jaladhi kahihi upaay bichaari | Binu prayaas saagar tarihi sakal bhaalu kapi dhaari ||
+ Prabhu tumhaar kulagur jaladhi kahihi upaay bichaari | 
+ 
+ Binu prayaas saagar tarihi sakal bhaalu kapi dhaari ||
 
  *|| Chopai ||*
  
@@ -1306,7 +1412,9 @@
 
  **|| Doha - 51 ||**
 
- Sakal charit tinh dekhe dhare kapat kapi deh | Prabhu gun hriday saraahahi sarnaagat par neh ||
+ Sakal charit tinh dekhe dhare kapat kapi deh | 
+ 
+ Prabhu gun hriday saraahahi sarnaagat par neh ||
 
  *|| Chopai ||*
 
@@ -1322,11 +1430,13 @@
 
  Suni lachhiman sab nikat bolaae | Daya laagi hasi turat chhodaae ||
 
- Raavan kar deejahu yah paatee | Lachhiman bachan baachu kulaghaatee||
+ Raavan kar deejahu yah paatee | Lachhiman bachan baachu kulaghaatee ||
 
  **|| Doha - 52 ||**
 
- kahehu mukhaagar moodh san mam sandesu udaar | Sita dei milahu na ta aava kaalu tumhaar ||
+ kahehu mukhaagar moodh san mam sandesu udaar | 
+ 
+ Sita dei milahu na ta aava kaalu tumhaar ||
 
  *|| Chopai ||*
 
@@ -1348,7 +1458,9 @@
 
  **|| Doha - 53 ||**
 
- Kee bhai bhet ki firi gae shravan sujasu suni mor | Kahasi na ripu dal tej bal bahut chakit chit tor ||
+ Kee bhai bhet ki firi gae shravan sujasu suni mor | 
+ 
+ Kahasi na ripu dal tej bal bahut chakit chit tor ||
 
  *|| Chopai ||*
 
@@ -1370,7 +1482,9 @@
 
  **|| Doha - 54 ||**
 
- Dwibid mayank neel nal angad gad bikataasi | Dadhi mukh kehari nisath sat jaamavant balaraasi ||
+ Dwibid mayank neel nal angad gad bikataasi | 
+ 
+ Dadhi mukh kehari nisath sat jaamavant balaraasi ||
 
  *|| Chopai ||*
 
@@ -1392,7 +1506,9 @@
 
  **|| Doha - 55 ||**
 
- Sahaj soor kapi bhaalu sab puni sir par prabhu Raam | Raavan kaal koti kahu jeeti sakahi sangraam ||
+ Sahaj soor kapi bhaalu sab puni sir par prabhu Raam | 
+ 
+ Raavan kaal koti kahu jeeti sakahi sangraam ||
                                                 
  *|| Chopai ||*
 
@@ -1400,7 +1516,7 @@
 
  Sak sar ek soshi sat saagar | Tav bhraatahi poonchheu nay naagar ||
 
- Taasu bachan sni saagar paahee | Maagat panth krupa man maahee ||
+ Taasu bachan suni saagar paahee | Maagat panth krupa man maahee ||
 
  Sunat bachan bihasa dasaseesa | Jau asi mati sahaay krut keesa ||
 
@@ -1418,9 +1534,13 @@
 
  **|| Doha - 56 ||**
 
- Baatanh manahi rizaai sath jani ghaalasi kul khees | Raam birodh na ubarasi saran bishnu aj is ||
+ Baatanh manahi rizaai sath jani ghaalasi kul khees | 
+ 
+ Raam birodh na ubarasi saran bishnu aja is ||
 
- Kee taji maan anuj iv prabhu pad pankaj bhrung | Hohi ki Raam saraanal khal kul sahit patang ||
+ Kee taji maan anuj iv prabhu pad pankaj bhrung | 
+ 
+ Hohi ki Raam saraanal khal kul sahit patang ||
 
  *|| Chopai ||*
 
@@ -1450,7 +1570,9 @@
 
  **|| Doha - 57 ||**
 
- Binay na maanat jaladhi jad gae teeni din beeti | Bole Raam sakop tab bhay binu hoi na preeti ||
+ Binay na maanat jaladhi jad gae teeni din beeti | 
+ 
+ Bole Raam sakop tab bhay binu hoi na preeti ||
 
  *|| Chopai ||*
 
@@ -1472,7 +1594,9 @@
 
  **|| Doha - 58 ||**
 
- Kaatehin Pai Kadaree Phari Koti Jatan Kou Seench | Binay Na Maan Khages Sunu Daatehin Pai Nav Neech ||
+ Kaatehin Pai Kadaree Phari Koti Jatan Kou Seench | 
+ 
+ Binay Na Maan Khages Sunu Daatehin Pai Nav Neech ||
 
  *|| Chopai ||*
 
@@ -1482,7 +1606,7 @@
 
  Tav Prerit Maayaan Upajae | Srshti Hetu Sab Granthani Gae ||
 
- Prabhu Aayasu Jehi Kahan Jas Ahee | So Tehi Bhaanti Rahen Sukh Lahee ||
+ Prabhu Aayasu Jehi Kahan Jas Ahaee | So Tehi Bhaanti Rahen Sukh Lahaee ||
 
  Prabhu Bhal Keenh Mohi Sikh Deenheen | Marajaada Puni Tumharee Keenheen ||
 
@@ -1495,7 +1619,9 @@
 
  **|| Doha - 59 ||**
 
- Sunat Bineet Bachan Ati Kah Krpaal Musukai | Jehi Bidhi Utarai Kapi Kataku Taat So Kahahu Upai ||
+ Sunat Bineet Bachan Ati Kah Krpaal Musukai | 
+ 
+ Jehi Bidhi Utarai Kapi Kataku Taat So Kahahu Upai ||
 
  *|| Chopai ||*
 
@@ -1528,7 +1654,9 @@
 
  **|| Doha - 60 ||**
 
- Sakal sumangal daayak Raghunaayak gun gaan | Saadar sunahi te tarahi bhav sindhu bina jalajaan ||
+ Sakal sumangal daayak Raghunaayak gun gaan | 
+ 
+ Saadar sunahi te tarahi bhav sindhu bina jalajaan ||
 
 
      || iti shreemadraamcharitmaanase sakalakalikalushvidhvansane paanchamah sopaanah samaaptah ||
