@@ -1426,7 +1426,9 @@
 
  Kah Sugreev sunahu sab baanar | Ang bhang kari pathavahu nisichar||
  
- Suni Sugreev bachan kapi dhaae | Deen pukaarat tadapi na tyaage ||
+ Suni Sugreev bachan kapi dhaae | baidhi kataka canu paasa phiraae ||
+ 
+ Bahu prakaara maarana kapi laage | Deen pukaarat tadapi na tyaage ||
 
  Jo hamaar har naasa kaana | Tehi kosalaadhees kai aana ||
 
