@@ -1248,6 +1248,8 @@
 
  Doorihi te dekhe dwau bhraata | Nayanaanand daan ke data ||
 
+ Bahuri Rama chabidhaama biloki | raheu thatuki ekataka pala roki ||
+
  Bhuj pralamb kanjaarun lochan | Syaamal gaat pranat bhay mochan ||
 
  Singh kandh aayat ur soha | Aanan amit madan man moha ||
