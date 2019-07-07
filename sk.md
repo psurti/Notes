@@ -1550,9 +1550,9 @@
 
  Sunat sabhay man much musukaai | Kahat dasaanan sabahi sunaai ||
 
- Bhoomi para kar gahat akaasa | Laghu taapas kr bag bilaasa ||
+ Bhoomi para kar gahat akaasa | Laghu taapas kara baaga bilaasa ||
 
- Kah suk naath satya sb baanee | Samuzahu chhadi prakruti abhimaanee ||
+ Kah suk naath satya saba baanee | Samuzahu chhadi prakruti abhimaanee ||
                                                 
  Sunau bachan mam parihari krodha | Naath Raam san tajahu birodha ||
 
