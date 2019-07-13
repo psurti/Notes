@@ -16,7 +16,7 @@ Bookmarks on different topics:
 #### Lucene
 #### [Elasticsearch](https://github.com/psurti/Notes/blob/master/ElasticSearch.md)
 #### Solr
-#### GoLang
+#### [GoLang](https://github.com/psurti/Notes/blob/master/GoLang.md)
 #### Spring boot/framework
 #### Java
 #### Redis
