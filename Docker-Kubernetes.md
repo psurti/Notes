@@ -1,3 +1,5 @@
+##### Overviews
+https://dev.to/sendilkumarn/kubernetes-for-everyone-opb
 
 ##### Developing java app with docker and K8s
 https://www.oreilly.com/ideas/how-to-manage-docker-containers-in-kubernetes-with-java
