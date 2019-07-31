@@ -15,6 +15,7 @@ Bookmarks on different topics:
 #### Gradle
 #### Lucene
 #### [Elasticsearch](https://github.com/psurti/Notes/blob/master/ElasticSearch.md)
+#### [Kafka and Pulsar](https://github.com/psurti/Notes/blob/master/Kafka-Pulsar.md)
 #### Solr
 #### [GoLang](https://github.com/psurti/Notes/blob/master/GoLang.md)
 #### Spring boot/framework
