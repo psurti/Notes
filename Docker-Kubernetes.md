@@ -11,6 +11,7 @@ https://stackify.com/guide-docker-java/
 https://semaphoreci.com/community/tutorials/build-and-deploy-a-java-web-application-with-docker-and-semaphore
 https://microservices-demo.github.io/deployment/kubernetes-minikube.html (microservices in k8s)
 https://lernentec.com/post/running-simple-elasticsearch-kibana-minikube/
+https://www.callicoder.com/spring-boot-docker-example/ (java build docker)
 
 ##### Shared memory between containers
 https://docs.docker.com/engine/reference/run/#ipc-settings---ipc
