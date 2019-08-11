@@ -129,6 +129,7 @@ git diff --stat 57ae6c5..46a309e
 ````
 
 #### Branch out a stash diverged
+This checks out a new branch based on the commit that you created your stash from, and then pops your stashed changes onto it.
 ````
 git stash branch add-stylesheet stash@{1}
 Switched to a new branch 'add-stylesheet'
@@ -138,6 +139,5 @@ new file: style.css
 Changes not staged for commit:
 modified: index.html
 Dropped refs/stash@{1} (32b3aa1d185dfe6d57b3c3cc3b32cbf3e380cc6a)
-This checks out a new branch based on the commit that you
 ````
 https://www.atlassian.com/git/tutorials/saving-changes/git-stash
