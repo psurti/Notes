@@ -127,3 +127,17 @@ git diff 57ae6c5..46a309e (lets you know all the files changed!)
  or
 git diff --stat 57ae6c5..46a309e
 ````
+
+#### Branch out a stash diverged
+````
+git stash branch add-stylesheet stash@{1}
+Switched to a new branch 'add-stylesheet'
+On branch add-stylesheet
+Changes to be committed:
+new file: style.css
+Changes not staged for commit:
+modified: index.html
+Dropped refs/stash@{1} (32b3aa1d185dfe6d57b3c3cc3b32cbf3e380cc6a)
+This checks out a new branch based on the commit that you
+````
+https://www.atlassian.com/git/tutorials/saving-changes/git-stash
