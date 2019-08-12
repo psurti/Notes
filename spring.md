@@ -1,3 +1,7 @@
+#### Spring Framework
+https://www.concretepage.com/spring/spring-collection-injection-example-with-list-set-map-and-properties
+https://www.boraji.com/spring-injecting-properties-into-bean-example
+
 #### Service vs Repository vs DAO vs Mapper(mybatis)
 https://stackoverflow.com/questions/8550124/what-is-the-difference-between-dao-and-repository-patterns
 
