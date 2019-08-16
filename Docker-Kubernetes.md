@@ -26,3 +26,5 @@ https://www.awsfeed.com/2019/05/15/running-open-distro-for-elasticsearch-on-kube
 https://medium.com/google-cloud/kubernetes-configmaps-and-secrets-68d061f7ab5b (part 1)
 https://medium.com/google-cloud/kubernetes-configmaps-and-secrets-part-2-3dc37111f0dc (part 2)
 
+##### Kafka with K8s
+https://portworx.com/run-ha-kafka-amazon-elastic-container-service-kubernetes/
