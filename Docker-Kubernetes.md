@@ -32,3 +32,4 @@ https://medium.com/@xcoulon/storing-data-into-persistent-volumes-on-kubernetes-f
 
 ##### Kafka with K8s
 https://portworx.com/run-ha-kafka-amazon-elastic-container-service-kubernetes/
+https://blog.kubernauts.io/apache-kafka-on-kubernetes-4425e18daba5
