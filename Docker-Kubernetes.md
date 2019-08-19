@@ -37,3 +37,4 @@ https://blog.kubernauts.io/apache-kafka-on-kubernetes-4425e18daba5
 
 ##### Logging 
 https://www.monitis.com/blog/containers-5-docker-logging-best-practices/
+https://logdna.com/blog/docker-logs/
