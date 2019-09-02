@@ -23,7 +23,8 @@ https://docs.docker.com/engine/reference/run/#ipc-settings---ipc
 ##### Scaling elasticsearch with Kubernetes
 https://medium.appbase.io/scaling-an-elasticsearch-cluster-with-kubernetes-120991de1451  
 https://medium.appbase.io/deploy-elasticsearch-with-kubernetes-on-aws-in-10-steps-7913b607abda  
-https://www.awsfeed.com/2019/05/15/running-open-distro-for-elasticsearch-on-kubernetes/  
+https://www.awsfeed.com/2019/05/15/running-open-distro-for-elasticsearch-on-kubernetes  
+https://vocon-it.com/2019/03/04/kubernetes-9-installing-elasticsearch-using-helm-charts  
 
 
 ##### Storing configuration and secrets in docker and K8s
