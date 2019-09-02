@@ -43,7 +43,7 @@ https://www.monitis.com/blog/containers-5-docker-logging-best-practices/
 https://logdna.com/blog/docker-logs/
 
 ##### Local Persistent Volumes
-https://vocon-it.com/2018/12/20/kubernetes-local-persistent-volumes/ 
+https://vocon-it.com/2018/12/20/kubernetes-local-persistent-volumes  
 https://medium.com/@dfrnascimento/encryption-of-kubernetes-persistent-local-volumes-70da62e0ed68 
 
 
