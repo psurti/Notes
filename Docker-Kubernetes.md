@@ -41,3 +41,7 @@ https://www.youtube.com/watch?v=hB6BrhFZs5k
 ##### Logging 
 https://www.monitis.com/blog/containers-5-docker-logging-best-practices/  
 https://logdna.com/blog/docker-logs/
+
+##### Local Persistent Volumes
+https://vocon-it.com/2018/12/20/kubernetes-local-persistent-volumes/ 
+
