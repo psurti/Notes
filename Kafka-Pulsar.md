@@ -1,6 +1,7 @@
 #### Good Kafka doc.
-https://jaceklaskowski.gitbooks.io/apache-kafka/kafka-docker.html
+https://jaceklaskowski.gitbooks.io/apache-kafka/kafka-docker.html  
 https://medium.com/@manuzhang/a-whirlwind-tour-of-kafka-summit-sf-2018-fec98752804c  
+http://cloudurable.com/blog/kafka-tutorial-kafka-producer-advanced-java-examples/index.html  
 
 #### Kafka Best Practices
 https://medium.com/real-time-streaming/apache-kafka-best-practices-d9fac5c483c0
