@@ -142,3 +142,7 @@ modified: index.html
 Dropped refs/stash@{1} (32b3aa1d185dfe6d57b3c3cc3b32cbf3e380cc6a)
 ````
 https://www.atlassian.com/git/tutorials/saving-changes/git-stash
+
+
+#### Commit Hooks
+https://codeinthehole.com/tips/a-useful-template-for-commit-messages/   
