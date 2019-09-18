@@ -3,7 +3,8 @@ https://www.concretepage.com/spring/spring-collection-injection-example-with-lis
 https://www.boraji.com/spring-injecting-properties-into-bean-example
 
 #### Service vs Repository vs DAO vs Mapper(mybatis)
-https://stackoverflow.com/questions/8550124/what-is-the-difference-between-dao-and-repository-patterns
+https://stackoverflow.com/questions/8550124/what-is-the-difference-between-dao-and-repository-patterns   
+https://medium.com/@joeclever/using-multiple-datasources-with-spring-boot-and-spring-data-6430b00c02e7  
 
 
 #### Spring Boot
