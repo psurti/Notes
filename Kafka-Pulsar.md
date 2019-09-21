@@ -3,7 +3,7 @@ https://jaceklaskowski.gitbooks.io/apache-kafka/kafka-docker.html
 https://medium.com/@manuzhang/a-whirlwind-tour-of-kafka-summit-sf-2018-fec98752804c  
 http://cloudurable.com/blog/kafka-tutorial-kafka-producer-advanced-java-examples/index.html  
 https://gerardnico.com/dit/kafka/kafka  
-
+https://www.javaworld.com/article/3060078/big-data-messaging-with-kafka-part-1.html  
 
 #### Kafka Best Practices
 https://medium.com/real-time-streaming/apache-kafka-best-practices-d9fac5c483c0   
