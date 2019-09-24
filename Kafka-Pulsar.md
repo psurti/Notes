@@ -17,5 +17,7 @@ https://medium.com/bakdata/queryable-kafka-topics-with-kafka-streams-8d2cca9de33
 
 #### Kafka Security
 https://opencredo.com/blogs/securing-kafka-using-vault-pki/  
+https://speakerdeck.com/salyh/transparent-end-to-end-security-for-apache-kafka-dh?slide=13  
+
 
 
