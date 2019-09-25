@@ -8,7 +8,9 @@ https://www.javaworld.com/article/3060078/big-data-messaging-with-kafka-part-1.h
 #### Kafka Best Practices
 https://medium.com/real-time-streaming/apache-kafka-best-practices-d9fac5c483c0   
 https://dzone.com/articles/kafka-consumer-and-multi-threading   
-https://data-flair.training/blogs/kafka-performance-tuning/  
+https://data-flair.training/blogs/kafka-performance-tuning/   
+https://www.infoq.com/articles/apache-kafka-best-practices-to-optimize-your-deployment/  
+
 
 
 #### KSQL and UDF
