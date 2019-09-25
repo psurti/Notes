@@ -10,8 +10,7 @@ https://medium.com/real-time-streaming/apache-kafka-best-practices-d9fac5c483c0
 https://dzone.com/articles/kafka-consumer-and-multi-threading   
 https://data-flair.training/blogs/kafka-performance-tuning/   
 https://www.infoq.com/articles/apache-kafka-best-practices-to-optimize-your-deployment/  
-
-
+https://dzone.com/articles/kafka-internals-topic-partitions  
 
 #### KSQL and UDF
 https://gist.github.com/kaiwaehner/850217a8071851dd2332571f90049b21  
