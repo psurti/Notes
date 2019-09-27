@@ -20,5 +20,9 @@ https://medium.com/bakdata/queryable-kafka-topics-with-kafka-streams-8d2cca9de33
 https://opencredo.com/blogs/securing-kafka-using-vault-pki/  
 https://speakerdeck.com/salyh/transparent-end-to-end-security-for-apache-kafka-dh?slide=13  
 
+#### Kafka Time Consumer
+https://mapr.com/docs/61/MapR_Streams/example-TimeBasedConsumer.html  
+
+
 
 
