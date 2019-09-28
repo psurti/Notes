@@ -29,3 +29,4 @@ Bookmarks on different topics:
 #### JavaScript
 #### [Domain Driven Design](https://github.com/psurti/Notes/blob/master/DDD.md)
 #### [Security](https://github.com/psurti/Notes/blob/master/Security.md)
+#### [Statistics](https://github.com/psurti/Notes/blob/master/Statistics.md)
