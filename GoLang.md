@@ -2,6 +2,8 @@
 https://objectcomputing.com/resources/publications/sett/november-2018-way-to-go-part-1 
 https://objectcomputing.com/resources/publications/go-for-it-part-2 
 https://objectcomputing.com/resources/publications/sett/april-2019-way-to-go-part-3 
+https://medium.com/free-code-camp/learning-go-from-zero-to-hero-d2a3223b3d86  
+
 
 ##### Call C from Go
 https://karthikkaranth.me/blog/calling-c-code-from-go/
