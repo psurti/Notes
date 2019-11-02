@@ -31,3 +31,4 @@ Bookmarks on different topics:
 #### [Security](https://github.com/psurti/Notes/blob/master/Security.md)
 #### [Statistics](https://github.com/psurti/Notes/blob/master/Statistics.md)
 #### [Spring](https://github.com/psurti/Notes/blob/master/Spring.md)
+#### [MachineLearning](https://github.com/psurti/Notes/blob/master/ML.md)
