@@ -15,7 +15,14 @@ https://semaphoreci.com/community/tutorials/build-and-deploy-a-java-web-applicat
 https://microservices-demo.github.io/deployment/kubernetes-minikube.html (microservices in k8s)  
 https://lernentec.com/post/running-simple-elasticsearch-kibana-minikube/  
 https://www.callicoder.com/spring-boot-docker-example/ (java build docker)  
-https://dzone.com/articles/quick-guide-to-microservices-with-kubernetes-sprin
+https://dzone.com/articles/quick-guide-to-microservices-with-kubernetes-sprin   
+
+##### Running Docker images on K8s minikube instead
+https://dzone.com/articles/running-local-docker-images-in-kubernetes-1   
+https://medium.com/@maumribeiro/running-your-own-docker-images-in-minikube-for-windows-ea7383d931f6   
+https://rominirani.com/tutorial-getting-started-with-kubernetes-on-your-windows-laptop-with-minikube-3269b54a226#.3jo76q2mx   
+
+
 
 ##### Shared memory between containers
 https://docs.docker.com/engine/reference/run/#ipc-settings---ipc
