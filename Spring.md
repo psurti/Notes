@@ -21,3 +21,6 @@ https://www.marcolancini.it/2018/blog-offensive-infrastructure-consul/
 #### Developing TLS/HTTP2 with SpringBoot
 https://www.novatec-gmbh.de/en/blog/bootiful-security-a-secure-web-application-in-5-minutes/   
 https://www.novatec-gmbh.de/en/blog/spring-boot-applications-tls-http2/   ]
+
+#### Spring Security Keys,Locators,Encrypt/Decrypt
+https://projects.spring.io/spring-cloud/spring-cloud.html#_encryption_and_decryption_2   
