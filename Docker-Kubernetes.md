@@ -1,5 +1,6 @@
 ##### Overviews
-https://dev.to/sendilkumarn/kubernetes-for-everyone-opb
+https://dev.to/sendilkumarn/kubernetes-for-everyone-opb   
+https://github.com/Tkanos/minikube_kubernetes_tutorial   
 
 ##### Training
 https://kubernetes.academy/ 
