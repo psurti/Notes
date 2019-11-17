@@ -18,3 +18,6 @@ https://stackoverflow.com/questions/39461420/how-to-make-spring-cloud-consul-reg
 https://stackoverflow.com/questions/42296407/spring-cloud-discovery-for-multiple-service-versions  
 https://www.marcolancini.it/2018/blog-offensive-infrastructure-consul/  
  
+#### Developing TLS/HTTP2 with SpringBoot
+https://www.novatec-gmbh.de/en/blog/bootiful-security-a-secure-web-application-in-5-minutes/   
+https://www.novatec-gmbh.de/en/blog/spring-boot-applications-tls-http2/   ]
