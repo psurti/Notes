@@ -18,6 +18,8 @@ https://lernentec.com/post/running-simple-elasticsearch-kibana-minikube/
 https://www.callicoder.com/spring-boot-docker-example/ (java build docker)  
 https://dzone.com/articles/quick-guide-to-microservices-with-kubernetes-sprin   
 
+##### 
+
 ##### Running Docker images on K8s minikube instead
 https://dzone.com/articles/running-local-docker-images-in-kubernetes-1   
 https://medium.com/@maumribeiro/running-your-own-docker-images-in-minikube-for-windows-ea7383d931f6   
