@@ -10,11 +10,13 @@ https://www.infoq.com/articles/microservices-aggregates-events-cqrs-part-2-richa
 https://dzone.com/articles/microservices-with-cqrs-and-event-sourcing
 
 #### gRPC Microservices - Isolation/Backward and Forward Compatibility
-https://www.bugsnag.com/blog/grpc-and-microservices-architecture
+https://www.bugsnag.com/blog/grpc-and-microservices-architecture   
+https://developers.google.com/protocol-buffers/docs/proto3#updating   
+http://eng.wealthfront.com/2011/03/02/protobufs-backward-and-forward/   
 
-https://developers.google.com/protocol-buffers/docs/proto3#updating
+#### Secure ACL Consul
+https://medium.com/faun/introduction-to-consul-kv-with-acl-183e4dd7ee1c   
 
-http://eng.wealthfront.com/2011/03/02/protobufs-backward-and-forward/
 
 
 
