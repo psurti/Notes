@@ -18,6 +18,8 @@ https://stackoverflow.com/questions/39461420/how-to-make-spring-cloud-consul-reg
 https://stackoverflow.com/questions/42296407/spring-cloud-discovery-for-multiple-service-versions  
 https://www.marcolancini.it/2018/blog-offensive-infrastructure-consul/  
 https://www.novatec-gmbh.de/en/blog/spring-cloud-sprint-a-fast-and-comprehensive-spring-cloud-services-tutorial/   
+https://programmaticponderings.com/2017/02/28/distributed-service-configuration-with-consul-spring-cloud-and-docker-2/   
+
 
  
 #### Developing TLS/HTTP2 with SpringBoot
