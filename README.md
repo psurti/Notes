@@ -18,6 +18,7 @@ Bookmarks on different topics:
 #### [Kafka and Pulsar](https://github.com/psurti/Notes/blob/master/Kafka-Pulsar.md)
 #### Solr
 #### [GoLang](https://github.com/psurti/Notes/blob/master/GoLang.md)
+#### [Kotlin](https://github.com/psurti/Notes/blob/master/Kotlin.md)
 #### Spring boot/framework
 #### Java
 #### Redis
