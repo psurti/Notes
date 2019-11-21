@@ -57,4 +57,5 @@ https://logdna.com/blog/docker-logs/
 https://vocon-it.com/2018/12/20/kubernetes-local-persistent-volumes  
 https://medium.com/@dfrnascimento/encryption-of-kubernetes-persistent-local-volumes-70da62e0ed68 
 
-
+##### ElasticSearch with K8s
+https://code972.com/blog/2019/04/117-running-elasticsearch-on-kubernetes   
