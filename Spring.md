@@ -28,3 +28,7 @@ https://www.novatec-gmbh.de/en/blog/spring-boot-applications-tls-http2/   ]
 
 #### Spring Security Keys,Locators,Encrypt/Decrypt
 https://projects.spring.io/spring-cloud/spring-cloud.html#_encryption_and_decryption_2   
+
+
+#### Reinitialize Datasources and multi-tenancy
+https://stackoverflow.com/questions/46031944/spring-boot-reset-datasource-on-the-fly   
