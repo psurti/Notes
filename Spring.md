@@ -12,6 +12,8 @@ https://dzone.com/articles/spring-boot-changingconfiguring-the-default-embedded-
 https://medium.com/codeshake/spring-boot-auto-configuration-mystery-revealed-d734516dddfb
 https://www.juliensobczak.com/inspect/2016/08/28/spring-boot-from-scratch.html   
 https://aduckdev.wordpress.com/2018/11/05/spring-boot-override-bootstrap-properties/   
+https://geowarin.com/understanding-spring-boot/   
+
 
 #### Spring Cloud
 https://howtodoinjava.com/spring-cloud/consul-service-registration-discovery/  
