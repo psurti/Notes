@@ -1,3 +1,5 @@
+
+https://happygitwithr.com/git-intro.html   
 https://www.bennadel.com/blog/3587-my-opinionated-git-cheat-sheet.htm  
 https://speakerdeck.com/lemiorhan/10-git-anti-patterns-you-should-be-aware-of
 
