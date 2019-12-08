@@ -3,4 +3,5 @@
 3. https://www.callicoder.com  
 4. http://blog.sapiensworks.com/tags.html (DDD)   
 5. https://www.novatec-gmbh.de/en/blog/   
+6. https://reflectoring.io/  
 
