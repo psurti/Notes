@@ -13,6 +13,17 @@ Bookmarks on different topics:
 ```
 #### Jenkins
 #### Gradle
+###### Pass environment parameters to gradlew bootRun task
+  1. Add to build.gradle
+  ```gradle
+  bootRun {
+    systemProperties = System.properties
+  }
+  ```
+  2. Run bootRun task
+  ```gradle
+  gradlew -Dspring.profiles.active=dev bootRun
+  ```
 #### Lucene
 #### [Elasticsearch](https://github.com/psurti/Notes/blob/master/ElasticSearch.md)
 #### [Kafka and Pulsar](https://github.com/psurti/Notes/blob/master/Kafka-Pulsar.md)
