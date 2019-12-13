@@ -14,6 +14,18 @@ https://www.juliensobczak.com/inspect/2016/08/28/spring-boot-from-scratch.html
 https://aduckdev.wordpress.com/2018/11/05/spring-boot-override-bootstrap-properties/   
 https://geowarin.com/understanding-spring-boot/   
 
+##### Pass environment parameters to gradlew bootRun task
+  1. Add to build.gradle
+  ```gradle
+  bootRun {
+    systemProperties = System.properties
+  }
+  ```
+  2. Run bootRun task
+  ```gradle
+  gradlew -Dspring.profiles.active=dev bootRun
+  ```
+
 
 #### Spring Cloud
 https://howtodoinjava.com/spring-cloud/consul-service-registration-discovery/  
