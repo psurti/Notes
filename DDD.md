@@ -9,6 +9,7 @@ https://buildplease.com/pages/
 https://www.freecodecamp.org/news/implementing-a-hexagonal-architecture/      
 https://stakeholderwhisperer.com/posts/2014/10/introducing-modelling-by-example#_=_   
 https://medium.com/swlh/implementing-a-hexagonal-architecture-bcfbe0d63622   
+https://paulovich.net/rich-domain-model-with-ddd-tdd-reviewed/   
 
 #### CQRS
 https://www.dotnetcurry.com/patterns-practices/1461/command-query-separation-cqs   
