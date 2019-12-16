@@ -148,3 +148,12 @@ https://www.atlassian.com/git/tutorials/saving-changes/git-stash
 
 #### Commit Hooks
 https://codeinthehole.com/tips/a-useful-template-for-commit-messages/   
+
+
+#### Remove cached file (after add)
+```
+Removes all previous adds
+git rm -r --cached .
+Remove single file that was add(ed)
+git rm --cached <file>
+```
