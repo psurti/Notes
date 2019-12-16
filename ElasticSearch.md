@@ -7,3 +7,5 @@ https://stackoverflow.com/questions/17524280/extendablequeryparser-working-examp
 ##### Embedded ElasticSearch
 https://www.geekabyte.io/2015/08/embedding-elasticsearch-in-spring.html   
 
+##### Lucene Security
+https://issues.apache.org/jira/browse/LUCENE-2228   
