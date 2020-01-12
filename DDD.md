@@ -16,3 +16,5 @@ https://softwarecampament.wordpress.com/portsadapters/
 #### CQRS
 https://www.dotnetcurry.com/patterns-practices/1461/command-query-separation-cqs   
 
+#### Design walktrough with DDD
+http://www.zankavtaskin.com/2013/09/applied-domain-driven-design-ddd-part-1.html   
