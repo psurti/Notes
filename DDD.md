@@ -11,6 +11,8 @@ https://stakeholderwhisperer.com/posts/2014/10/introducing-modelling-by-example#
 https://medium.com/swlh/implementing-a-hexagonal-architecture-bcfbe0d63622   
 https://paulovich.net/rich-domain-model-with-ddd-tdd-reviewed/   
 https://softwarecampament.wordpress.com/portsadapters/   
+https://blog.octo.com/en/hexagonal-architecture-three-principles-and-an-implementation-example/   
+
 
 
 #### CQRS
