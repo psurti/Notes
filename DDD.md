@@ -20,3 +20,7 @@ https://www.dotnetcurry.com/patterns-practices/1461/command-query-separation-cqs
 
 #### Design walktrough with DDD
 http://www.zankavtaskin.com/2013/09/applied-domain-driven-design-ddd-part-1.html   
+http://csis.pace.edu/~marchese/CS389/L8/DomainModel-UML_short.pdf   
+
+
+
