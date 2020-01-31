@@ -10,6 +10,15 @@ Bookmarks on different topics:
 ```
 #### [Git and Gerrit](https://github.com/psurti/Notes/blob/master/Git-Gerrit.md)
 ```
+1. Local committed changes
+
+2. git pull -r origin master
+
+ CASE you forgot -r(rebase) in previous command then do to resolve merge commit:
+ > git rebase -i
+ > git commit --amend (remove the pre-existing gerrit change Id or push will be rejected)
+
+3. git push origin HEAD:refs/for/master
 ```
 #### Jenkins
 #### Gradle
