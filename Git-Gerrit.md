@@ -36,7 +36,8 @@ git checkout master
 git merge --squash private_feature_branch
 git commit -v
 ```
-https://sandofsky.com/blog/git-workflow.html
+https://sandofsky.com/blog/git-workflow.html  
+https://www.internalpointers.com/post/squash-commits-into-one-git  
 
 
 #### Branch-off from a previous tagged commit
