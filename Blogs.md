@@ -4,4 +4,5 @@
 4. http://blog.sapiensworks.com/tags.html (DDD)   
 5. https://www.novatec-gmbh.de/en/blog/   
 6. https://reflectoring.io/  
+7. https://www.surasint.com/  
 
