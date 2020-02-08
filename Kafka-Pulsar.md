@@ -23,6 +23,8 @@ https://speakerdeck.com/salyh/transparent-end-to-end-security-for-apache-kafka-d
 #### Kafka Time Consumer
 https://mapr.com/docs/61/MapR_Streams/example-TimeBasedConsumer.html  
 
+#### Best Practices and Pitfalls
+https://codeburst.io/kafka-gotchas-c627d4186aa0   
 
 
 
