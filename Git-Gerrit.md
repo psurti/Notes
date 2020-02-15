@@ -95,7 +95,13 @@ Don’t use the rebase command …
 1. If the branch is public and shared. Rewriting such branches will hinder the work of other team members.
 2. When the exact commit branch history is important (because the rebase command rewrites the history of commits).
 Given the above recommendations, I prefer to use rebase for short-term, local branches and the merge command for branches in the public repository.
-
+````
+- Preserves merge commits on public branches
+git fetch origin
+git rebase -p origin/master
+- Does not preserve merge commits for private branches
+git pull -r origin master
+````
 #### Overwite local with the remote repo
 ````
 git fetch origin master
