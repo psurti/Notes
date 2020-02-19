@@ -1,7 +1,11 @@
 
 https://happygitwithr.com/git-intro.html   
 https://www.bennadel.com/blog/3587-my-opinionated-git-cheat-sheet.htm  
-https://speakerdeck.com/lemiorhan/10-git-anti-patterns-you-should-be-aware-of
+https://speakerdeck.com/lemiorhan/10-git-anti-patterns-you-should-be-aware-of   
+
+#### Good Commit Messages
+https://chris.beams.io/posts/git-commit/   
+
 
 #### Resolving merge conflicts with gerrit
 ```
