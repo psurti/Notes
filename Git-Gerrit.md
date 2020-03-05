@@ -178,3 +178,9 @@ git tag -fa <tagname>
 3. Push the tag to the remote origin
 git push origin master --tags
 ```
+
+#### Refresh Tags (i.e. update a moved tag)
+```
+git fetch --tags -f
+```
+
