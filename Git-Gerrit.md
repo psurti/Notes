@@ -168,3 +168,13 @@ git rm -r --cached .
 Remove single file that was add(ed)
 git rm --cached <file>
 ```
+
+#### Moving a tag
+```
+Delete a tag on any remote before you push
+git push origin :refs/tags/<tagname>
+Replace the tag to reference the most recent commit
+git tag -fa <tagname>
+Push the tag to the remote origin
+git push origin master:refs/for/master --tags
+```
