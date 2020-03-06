@@ -54,3 +54,18 @@ openssl pkcs12 -in keystore.p12  -nokeys -out cert.pem
 Export unencrypted private key:
 openssl pkcs12 -in keystore.p12  -nodes -nocerts -out key.pem
 ````
+
+
+#### TLS/SSL Java Properties w/o SpringBoot
+https://www.oodlestechnologies.com/blogs/Connect-to-SSL-enabled-RabbitMQ-server-Springboot/  
+https://docs.spring.io/spring-cloud-dataflow/docs/1.1.0.M1/reference/html/getting-started-security.html   
+https://www.baeldung.com/spring-boot-https-self-signed-certificate   
+https://docs.spring.io/spring-boot/docs/current/reference/html/appendix-application-properties.html#server-properties   
+https://docs.oracle.com/javase/7/docs/technotes/guides/security/jsse/JSSERefGuide.html#Customization   
+https://stackoverflow.com/questions/56655545/how-to-change-java-keystorejks-keystore-and-alias-password-so-that-they-work  
+https://www.naschenweng.info/2018/02/01/java-mutual-ssl-authentication-2-way-ssl-authentication/   
+
+
+
+
+
