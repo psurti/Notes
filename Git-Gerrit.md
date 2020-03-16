@@ -168,6 +168,14 @@ git rm -r --cached .
 Remove single file that was add(ed)
 git rm --cached <file>
 ```
+``` 
+Ignore changes to the file (i.e. untrack and track a file)
+git update-index should do what you want
+This will tell git you want to start ignoring the changes to the file:
+git update-index --assume-unchanged path/to/file
+
+When you want to start keeping track again:
+git update-index --no-assume-unchanged path/to/file
 
 #### Moving a tag
 ```
