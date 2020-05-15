@@ -3,3 +3,7 @@ https://www.codepedia.org/ama/how-to-make-parallel-calls-in-java-with-completabl
 
 #### printf format syntax
 https://www.cs.colostate.edu/~cs160/.Summer16/resources/Java_printf_method_quick_reference.pdf   
+
+#### Streams API
+https://www.nurkiewicz.com/2014/07/grouping-sampling-and-batching-custom.html   
+
