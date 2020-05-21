@@ -18,6 +18,8 @@ http://eng.wealthfront.com/2011/03/02/protobufs-backward-and-forward/
 
 #### Secure ACL Consul
 https://medium.com/faun/introduction-to-consul-kv-with-acl-183e4dd7ee1c   
+https://programmaticponderings.com/2017/02/28/distributed-service-configuration-with-consul-spring-cloud-and-docker-2/   
+
 
 #### Styleguide
 https://legacy.gitbook.com/@hellofresh   
