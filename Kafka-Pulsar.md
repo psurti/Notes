@@ -29,4 +29,8 @@ https://mapr.com/docs/61/MapR_Streams/example-TimeBasedConsumer.html
 https://codeburst.io/kafka-gotchas-c627d4186aa0   
 
 
+#### Kafka in a Docker Container
+https://rmoff.net/2018/08/02/kafka-listeners-explained/   
+
+
 
