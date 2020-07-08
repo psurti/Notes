@@ -193,3 +193,9 @@ git push origin master --tags
 git fetch --tags -f
 ```
 
+#### Git Template
+https://medium.com/@alex.wasik/create-a-custom-git-commit-template-84468232a459
+```
+git config --global commit.template ~/.gitmessage
+edit ~/.gitmessage
+```
