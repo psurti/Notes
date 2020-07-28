@@ -1,2 +1,2 @@
 
-vscode - vscode color scheme for intellij
+vscode.icls - vscode color scheme for intellij
