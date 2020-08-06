@@ -10,3 +10,5 @@ http://minborgsjavapot.blogspot.com/2019/10/become-master-of-java-streams-part-4
 https://www.optaplanner.org/blog/2018/01/09/JavaReflectionButMuchFaster.html   
 
 
+#### Troubleshooting DirectMemory Buffers
+https://dzone.com/articles/troubleshooting-problems-with-native-off-heap-memo   
