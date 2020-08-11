@@ -15,6 +15,7 @@ https://paulovich.net/rich-domain-model-with-ddd-tdd-reviewed/
 https://softwarecampament.wordpress.com/portsadapters/   
 https://blog.octo.com/en/hexagonal-architecture-three-principles-and-an-implementation-example/   
 https://vaadin.com/learn/tutorials/ddd   
+https://beyondxscratch.com/2017/08/19/hexagonal-architecture-the-practical-guide-for-a-clean-architecture/   
 
 
 
