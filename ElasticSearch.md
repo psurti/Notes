@@ -12,3 +12,6 @@ https://issues.apache.org/jira/browse/LUCENE-2228
 
 ##### HA ElasticSearch
 https://blog.ruanbekker.com/blog/2019/04/02/setup-a-5-node-highly-available-elasticsearch-cluster/   
+
+##### Joins
+https://rockset.com/blog/can-i-do-sql-style-joins-in-elasticsearch/   
