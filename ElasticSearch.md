@@ -16,4 +16,6 @@ https://blog.ruanbekker.com/blog/2019/04/02/setup-a-5-node-highly-available-elas
 ##### Joins
 https://rockset.com/blog/can-i-do-sql-style-joins-in-elasticsearch/   
 https://www.factweavers.com/blog/join-in-elasticsearch/   
+https://blog.mimacom.com/parent-child-elasticsearch/   
+
 
