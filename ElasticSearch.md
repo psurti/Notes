@@ -19,3 +19,8 @@ https://www.factweavers.com/blog/join-in-elasticsearch/
 https://blog.mimacom.com/parent-child-elasticsearch/   
 
 
+##### Script Plugin/Plugins
+https://medium.com/tinder-engineering/how-we-improved-our-performance-using-elasticsearch-plugins-part-1-b0850a7e5224   
+https://medium.com/tinder-engineering/how-we-improved-our-performance-using-elasticsearch-plugins-part-2-b051da2ee85b   
+
+
