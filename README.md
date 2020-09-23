@@ -33,6 +33,11 @@ Bookmarks on different topics:
   ```gradle
   gradlew -Dspring.profiles.active=dev bootRun
   ```
+  3. To add local dependency instead use
+  ```gradle
+      //compile 'com.xyz:foo-bar:2.+'
+      compile fileTree(dir: 'c:/git/xyz/build/libs', include: '*.jar')
+  ```
 #### Lucene
 #### [Elasticsearch](https://github.com/psurti/Notes/blob/master/ElasticSearch.md)
 #### [Kafka and Pulsar](https://github.com/psurti/Notes/blob/master/Kafka-Pulsar.md)
