@@ -15,6 +15,7 @@
 15. https://fasterthanli.me/  
 16. https://indrabasak.github.io/blog/tags/   
 17. https://www.javamex.com/   
+18. https://www.soberkoder.com/index.html   
 
 
 
