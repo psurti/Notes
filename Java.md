@@ -12,3 +12,14 @@ https://www.optaplanner.org/blog/2018/01/09/JavaReflectionButMuchFaster.html
 
 #### Troubleshooting DirectMemory Buffers
 https://dzone.com/articles/troubleshooting-problems-with-native-off-heap-memo   
+
+
+
+
+
+```java
+int BATCH = 500;
+IntStream.range(0, (data.size()+BATCH-1)/BATCH)
+         .mapToObj(i -> data.subList(i*BATCH, Math.min(data.size(), (i+1)*BATCH)))
+         .forEach(batch -> process(batch))
+```
