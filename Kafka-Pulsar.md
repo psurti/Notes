@@ -5,6 +5,8 @@ http://cloudurable.com/blog/kafka-tutorial-kafka-producer-advanced-java-examples
 https://gerardnico.com/dit/kafka/kafka  
 https://www.javaworld.com/article/3060078/big-data-messaging-with-kafka-part-1.html  
 https://www.javaworld.com/article/3066873/big-data-messaging-with-kafka-part-2.html   
+https://medium.com/@psinghal04/replaying-kafka-messages-an-implementation-in-golang-e5c6867cf084   
+
 
 
 #### Kafka Best Practices
