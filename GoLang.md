@@ -5,7 +5,7 @@ https://objectcomputing.com/resources/publications/sett/april-2019-way-to-go-par
 https://medium.com/free-code-camp/learning-go-from-zero-to-hero-d2a3223b3d86  
 https://quii.gitbook.io/learn-go-with-tests/   
 https://gobyexample.com/   
-
+http://www.golangbootcamp.com/book   
 
 
 ##### Call C from Go
