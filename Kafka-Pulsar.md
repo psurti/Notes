@@ -40,17 +40,17 @@ https://rmoff.net/2018/08/02/kafka-listeners-explained/
 New schema reads old data
 - If field does not exist use a default value
 - Query over old and new data using a new schema
-Forward-Compatible
+##### Forward-Compatible
+Old schema reads new data
 - Ignores new fields
 - Deleting fields without defaults is not forward compatible
 - Data stream evolve without changing our downstream consumers
-Old schema reads new data
-Full-Compatible
-- Both forward and backward
+##### Full-Compatible
+Both forward and backward
 - Only add fields with defaults
 - Only remove fields that have defaults
-Breaking Change
-- None of those
+###### Breaking Change
+Not Backward nor Forward
 - Adding/Remove elements from an Enum
 - Changing the type of a field (string -> int for example)
 - Rename a required field (field without default)
