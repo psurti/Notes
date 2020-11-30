@@ -59,3 +59,10 @@ https://medium.com/@dfrnascimento/encryption-of-kubernetes-persistent-local-volu
 
 ##### ElasticSearch with K8s
 https://code972.com/blog/2019/04/117-running-elasticsearch-on-kubernetes   
+
+
+##### Debugging
+Running a pod in K8s and running a command in the cluster
+```bash
+kubectl run curl-debug-march --image=radial/busyboxplus:curl -i --tty --rm --generator=run-pod/v1
+```
