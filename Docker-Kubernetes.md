@@ -66,3 +66,10 @@ Running a pod in K8s and running a command in the cluster
 ```bash
 kubectl run curl-debug-march --image=radial/busyboxplus:curl -i --tty --rm --generator=run-pod/v1
 ```
+
+Useful Commands:
+```
+kubectl -n <namespace-name> describe pod <pod name>
+
+kubectl -n <namespace-name> logs -p  <pod name> 
+```
