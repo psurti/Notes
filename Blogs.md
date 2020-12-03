@@ -17,8 +17,10 @@
 17. https://www.javamex.com/   
 18. https://www.soberkoder.com/index.html   
 19. https://dave.cheney.net/   
-20. https://venilnoronha.io/   
-21. https://blog.akquinet.de/   
+20. https://venilnoronha.io/      
+21. https://blog.akquinet.de/  
+22. https://winterbe.com/blog/   
+
 
 
 
