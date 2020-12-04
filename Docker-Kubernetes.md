@@ -72,4 +72,11 @@ Useful Commands:
 kubectl -n <namespace-name> describe pod <pod name>
 
 kubectl -n <namespace-name> logs -p  <pod name> 
+
+#To find all containers in a pod
+kubectl describe pod/sas-crunchy-data-postgres-99c48fdb-pc47l -n d25862
+#To bash into a container using k8s
+kubectl exec sas-crunchy-data-postgres-99c48fdb-pc47l -c database -- /bin/sh
+
+
 ```
