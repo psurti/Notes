@@ -21,6 +21,8 @@
 21. https://blog.akquinet.de/  
 22. https://winterbe.com/blog/   
 23. https://jodah.net/   
+24. https://polarsparc.com/   
+
 
 
 
