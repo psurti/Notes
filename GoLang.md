@@ -21,3 +21,6 @@ https://blog.kowalczyk.info/book/go-cookbook.html
 ##### Call Go shared from Java
 https://stackoverflow.com/questions/49986729/how-to-call-go-function-from-java-using-java-native-interface   
 https://blog.dogan.io/2015/08/15/java-jni-jnr-go/   
+
+##### Go and V8 (Javascript)
+https://bravenewmethod.com/2011/03/30/embedding-v8-javascript-engine-and-go/   
