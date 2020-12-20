@@ -23,3 +23,6 @@ IntStream.range(0, (data.size()+BATCH-1)/BATCH)
          .mapToObj(i -> data.subList(i*BATCH, Math.min(data.size(), (i+1)*BATCH)))
          .forEach(batch -> process(batch))
 ```
+
+#### Reverse Proxy to Java Backend Service
+https://medium.com/@mirela95/apache-http-server-as-reverse-proxy-with-java-back-end-application-running-on-tomcat-9c8c9210783e  
