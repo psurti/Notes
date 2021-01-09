@@ -10,3 +10,6 @@ https://javascript.info/
 
 #### JS Object mutablility prevention
 https://ourcodeworld.com/articles/read/167/how-to-prevent-modification-of-an-object-in-javascript-and-prevent-them-from-being-accesible-in-the-console   
+
+##### V8
+https://www.freecodecamp.org/news/javascript-under-the-hood-v8/
