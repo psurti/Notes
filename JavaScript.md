@@ -15,3 +15,28 @@ https://ourcodeworld.com/articles/read/167/how-to-prevent-modification-of-an-obj
 https://www.freecodecamp.org/news/javascript-under-the-hood-v8/   
 https://duktape.org/   
 
+##### prebuilt v8
+https://rubygems.org/gems/libv8     
+```
+# Find the appropriate gem version for your OS,
+# visit: https://rubygems.org/gems/libv8/versions
+
+# Download the gem
+# MacOS Sierra is darwin-16, for v8 6.3.292.48.1 it looks like:
+curl https://rubygems.org/downloads/libv8-6.3.292.48.1-x86_64-darwin-16.gem > libv8.gem
+
+# Extract the gem (it's a tarball)
+tar -xf libv8.gem
+
+# Extract the `data.tar.gz` within
+cd libv8-6.3.292.48.1-x86_64-darwin-16
+tar -xzf data.tar.gz
+
+# Symlink the compiled libraries and includes
+ln -s $(pwd)/data/vendor/v8/include $GOPATH/src/github.com/augustoroman/v8/include
+ln -s $(pwd)/data/vendor/v8/out/x64.release $GOPATH/src/github.com/augustoroman/v8/libv8
+
+# Run the tests to make sure everything works
+cd $GOPATH/src/github.com/augustoroman/v8
+go test
+```
