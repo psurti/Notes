@@ -24,3 +24,6 @@ https://blog.dogan.io/2015/08/15/java-jni-jnr-go/
 
 ##### Go and V8 (Javascript)
 https://bravenewmethod.com/2011/03/30/embedding-v8-javascript-engine-and-go/   
+
+##### Deserializing JSON in GO
+https://medium.com/@fsufitch/deserializing-json-in-go-a-tutorial-d042412958ea
