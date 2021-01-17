@@ -23,4 +23,7 @@ https://blog.mimacom.com/parent-child-elasticsearch/
 https://medium.com/tinder-engineering/how-we-improved-our-performance-using-elasticsearch-plugins-part-1-b0850a7e5224   
 https://medium.com/tinder-engineering/how-we-improved-our-performance-using-elasticsearch-plugins-part-2-b051da2ee85b   
 
+##### Other Search libraries
+abacus 
+linden
 
