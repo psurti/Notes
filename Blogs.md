@@ -24,6 +24,7 @@
 24. https://polarsparc.com/   
 25. https://serrano.academy/   
 26. https://medium.com/towards-artificial-intelligence/gradient-descent-algorithm-for-machine-learning-python-tutorial-ml-9ded189ec556   
+27. https://eli.thegreenplace.net/   
 
 
 
