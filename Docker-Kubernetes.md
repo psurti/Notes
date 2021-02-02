@@ -68,15 +68,20 @@ kubectl run curl-debug-march --image=radial/busyboxplus:curl -i --tty --rm --gen
 ```
 
 Useful Commands:
-```
+```shell
 kubectl -n <namespace-name> describe pod <pod name>
 
 kubectl -n <namespace-name> logs -p  <pod name> 
 
-#To find all containers in a pod
+# To find all containers in a pod
 kubectl describe pod/sas-crunchy-data-postgres-99c48fdb-pc47l -n d25862
-#To bash into a container using k8s
-kubectl exec sas-crunchy-data-postgres-99c48fdb-pc47l -c database -- /bin/sh
+
+# Output json based on depth -- eg. delete contents that are three level deep
+kubectl get pod/sas-crunchy-data-postgres-99c48fdb-pc47l -n d25862 -o json | jq  'del(.[]?[]?[]?)'
+
+# To bash into a container using k8s
+kubectl exec -it sas-crunchy-data-postgres-99c48fdb-pc47l -c database -- /bin/sh
+
 
 
 ```
