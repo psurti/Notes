@@ -27,3 +27,6 @@ https://bravenewmethod.com/2011/03/30/embedding-v8-javascript-engine-and-go/
 
 ##### Deserializing JSON in GO
 https://medium.com/@fsufitch/deserializing-json-in-go-a-tutorial-d042412958ea
+
+##### Go micro-services framework
+https://micro.mu/getting-started
