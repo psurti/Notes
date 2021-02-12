@@ -82,6 +82,8 @@ kubectl get pod/sas-crunchy-data-postgres-99c48fdb-pc47l -n d25862 -o json | jq 
 # To bash into a container using k8s
 kubectl exec -it sas-crunchy-data-postgres-99c48fdb-pc47l -c database -- /bin/sh
 
+# To delete a namespace
+kubectl delete ns developer
 
 
 ```
