@@ -199,3 +199,15 @@ https://medium.com/@alex.wasik/create-a-custom-git-commit-template-84468232a459
 git config --global commit.template ~/.gitmessage
 edit ~/.gitmessage
 ```
+
+
+#### Windows Git and SSH 
+```
+Add key with: ssh-add .id_rsa
+List all keys: ssh-add -L 
+Restart Windows Service: OpenSSH  Authentication Agent
+
+With powershell let Git know the ssh (windows/system32) to use:
+PS> [Environment]::SetEnvironmentVariable("GIT_SSH", "$((Get-Command ssh).Source)", [System.EnvironmentVariableTarget]::User)
+
+```
