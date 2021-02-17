@@ -26,6 +26,8 @@
 26. https://medium.com/towards-artificial-intelligence/gradient-descent-algorithm-for-machine-learning-python-tutorial-ml-9ded189ec556   
 27. https://eli.thegreenplace.net/   
 28. https://ewanvalentine.io/   
+29. https://yourbasic.org/   
+30. 
 
 
 
