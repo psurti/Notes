@@ -8,6 +8,9 @@ https://gobyexample.com/
 http://www.golangbootcamp.com/book   
 https://golangdocs.com   
 https://www.golangprograms.com/go-language   
+https://tutorialedge.net/golang/writing-a-twitter-bot-golang/   
+https://www.integralist.co.uk/posts/go-interfaces/   
+
 
 
 ##### Call C from Go
