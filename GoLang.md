@@ -7,6 +7,7 @@ https://quii.gitbook.io/learn-go-with-tests/
 https://gobyexample.com/   
 http://www.golangbootcamp.com/book   
 https://golangdocs.com   
+https://www.golangprograms.com/go-language   
 
 
 ##### Call C from Go
@@ -17,6 +18,7 @@ https://karthikkaranth.me/blog/functions-implementing-interfaces-in-go/
 
 ##### Go cookbooks
 https://blog.kowalczyk.info/book/go-cookbook.html   
+
 
 ##### Call Go shared from Java
 https://stackoverflow.com/questions/49986729/how-to-call-go-function-from-java-using-java-native-interface   
