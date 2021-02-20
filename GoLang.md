@@ -30,3 +30,6 @@ https://medium.com/@fsufitch/deserializing-json-in-go-a-tutorial-d042412958ea
 
 ##### Go micro-services framework
 https://micro.mu/getting-started
+
+##### Go Rest client
+https://medium.com/@marcus.olsson/writing-a-go-client-for-your-restful-api-c193a2f4998c
