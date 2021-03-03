@@ -40,6 +40,8 @@
 
 
 
+## Variety blogs
+1. https://wgtwo.com/blog   
 
 
 
