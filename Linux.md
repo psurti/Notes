@@ -16,3 +16,6 @@ cat /proc/<id>/cmdline
 tail -f /dev/stdout or tail -f /proc/self/fd/1
 tail -f /dev/stderr or tail -f /proc/self/fd/2
 ```
+
+##### WSL on windows
+https://www.sitepoint.com/windows-terminal/   
