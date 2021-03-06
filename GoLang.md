@@ -35,6 +35,7 @@ https://medium.com/@fsufitch/deserializing-json-in-go-a-tutorial-d042412958ea
 
 ##### Design Patterns in GO
 https://refactoring.guru/   
+https://threedots.tech/   
 
 
 ##### Go micro-services framework
