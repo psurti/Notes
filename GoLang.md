@@ -43,3 +43,7 @@ https://micro.mu/getting-started
 
 ##### Go Rest client
 https://medium.com/@marcus.olsson/writing-a-go-client-for-your-restful-api-c193a2f4998c
+
+
+#### Go lang - enums
+https://yourbasic.org/golang/iota/    
