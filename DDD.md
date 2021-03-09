@@ -27,4 +27,5 @@ http://www.zankavtaskin.com/2013/09/applied-domain-driven-design-ddd-part-1.html
 http://csis.pace.edu/~marchese/CS389/L8/DomainModel-UML_short.pdf   
 
 
-
+#### DDD in Golang
+https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example
