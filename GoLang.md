@@ -47,3 +47,6 @@ https://medium.com/@marcus.olsson/writing-a-go-client-for-your-restful-api-c193a
 
 #### Go lang - enums
 https://yourbasic.org/golang/iota/    
+
+#### Good Go Makefile
+https://kodfabrik.com/journal/a-good-makefile-for-go
