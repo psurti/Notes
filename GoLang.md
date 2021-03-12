@@ -23,8 +23,7 @@ https://karthikkaranth.me/blog/functions-implementing-interfaces-in-go/
 https://blog.kowalczyk.info/book/go-cookbook.html    
 https://golangdocs.com/   
 https://www.alexedwards.net/blog/an-overview-of-go-tooling    
-
-
+https://quii.gitbook.io/learn-go-with-tests/   
 
 ##### Call Go shared from Java
 https://stackoverflow.com/questions/49986729/how-to-call-go-function-from-java-using-java-native-interface   
