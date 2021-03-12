@@ -22,6 +22,8 @@ https://karthikkaranth.me/blog/functions-implementing-interfaces-in-go/
 ##### Go cookbooks
 https://blog.kowalczyk.info/book/go-cookbook.html    
 https://golangdocs.com/   
+https://www.alexedwards.net/blog/an-overview-of-go-tooling    
+
 
 
 ##### Call Go shared from Java
