@@ -20,7 +20,8 @@ https://karthikkaranth.me/blog/calling-c-code-from-go/
 https://karthikkaranth.me/blog/functions-implementing-interfaces-in-go/
 
 ##### Go cookbooks
-https://blog.kowalczyk.info/book/go-cookbook.html   
+https://blog.kowalczyk.info/book/go-cookbook.html    
+https://golangdocs.com/   
 
 
 ##### Call Go shared from Java
