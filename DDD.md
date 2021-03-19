@@ -29,3 +29,15 @@ http://csis.pace.edu/~marchese/CS389/L8/DomainModel-UML_short.pdf
 
 #### DDD in Golang
 https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example
+
+
+```shell
+# thoughts...
+There are two kinds of operations assoacited with Domain Objects
+- Lifecycle operations (CRUD of Account)
+- Domain operations (deposit money on Account)
+
+Lifecycle operations does not belong in the domain object such as Account. They are operations that are abstract outside
+Domain operations such as "deposit(money)" would be a method on the Domain object of Account
+
+```
