@@ -52,3 +52,8 @@ https://yourbasic.org/golang/iota/
 
 #### Good Go Makefile
 https://kodfabrik.com/journal/a-good-makefile-for-go
+
+#### Go lang /sqlite /mingw-64
+
+https://medium.com/@yaravind/go-sqlite-on-windows-f91ef2dacfe   
+https://jmeubank.github.io/tdm-gcc/
