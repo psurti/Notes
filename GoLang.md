@@ -60,4 +60,7 @@ https://jmeubank.github.io/tdm-gcc/
 
 #### Go lang - JSON marshall/unmarshall null values
 https://www.calhoun.io/how-to-determine-if-a-json-key-has-been-set-to-null-or-not-provided/   
+https://www.sohamkamani.com/golang/omitempty/  
+https://stackoverflow.com/questions/59964619/difference-using-pointer-in-struct-fields   
+
 
