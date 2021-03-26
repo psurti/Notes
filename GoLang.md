@@ -62,5 +62,5 @@ https://jmeubank.github.io/tdm-gcc/
 https://www.calhoun.io/how-to-determine-if-a-json-key-has-been-set-to-null-or-not-provided/   
 https://www.sohamkamani.com/golang/omitempty/  
 https://stackoverflow.com/questions/59964619/difference-using-pointer-in-struct-fields   
-
+https://willnorris.com/2014/05/go-rest-apis-and-pointers/   
 
