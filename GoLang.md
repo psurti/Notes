@@ -57,3 +57,7 @@ https://kodfabrik.com/journal/a-good-makefile-for-go
 
 https://medium.com/@yaravind/go-sqlite-on-windows-f91ef2dacfe   
 https://jmeubank.github.io/tdm-gcc/
+
+#### Go lang - JSON marshall/unmarshall null values
+https://www.calhoun.io/how-to-determine-if-a-json-key-has-been-set-to-null-or-not-provided/   
+
