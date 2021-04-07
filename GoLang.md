@@ -64,3 +64,7 @@ https://www.sohamkamani.com/golang/omitempty/
 https://stackoverflow.com/questions/59964619/difference-using-pointer-in-struct-fields   
 https://willnorris.com/2014/05/go-rest-apis-and-pointers/   
 
+
+#### Gorm
+https://medium.com/@sonus21/gorm-association-t-1-to-1-database-query-9415481300c    
+
