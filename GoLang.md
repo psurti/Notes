@@ -67,4 +67,4 @@ https://willnorris.com/2014/05/go-rest-apis-and-pointers/
 
 #### Gorm
 https://medium.com/@sonus21/gorm-association-t-1-to-1-database-query-9415481300c    
-
+https://blog.depa.do/post/gorm-gotchas   
