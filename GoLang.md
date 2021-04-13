@@ -68,7 +68,7 @@ https://willnorris.com/2014/05/go-rest-apis-and-pointers/
 #### Gorm
 https://medium.com/@sonus21/gorm-association-t-1-to-1-database-query-9415481300c    
 https://blog.depa.do/post/gorm-gotchas   
-
+https://medium.com/@luismasuelli/lets-order-a-pizza-in-go-part-1-4d70cbabb4ae   (4-part series)
 
 #### Data structures
 https://golang.org/doc/play/tree.go   
