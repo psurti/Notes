@@ -34,6 +34,8 @@ https://bravenewmethod.com/2011/03/30/embedding-v8-javascript-engine-and-go/
 
 ##### Deserializing JSON in GO
 https://medium.com/@fsufitch/deserializing-json-in-go-a-tutorial-d042412958ea    
+https://jhall.io/posts/go-json-tricks-slightly-custom-marshaler/   
+
 
 ##### Design Patterns in GO
 https://refactoring.guru/   
