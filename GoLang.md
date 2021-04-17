@@ -71,6 +71,7 @@ https://willnorris.com/2014/05/go-rest-apis-and-pointers/
 https://medium.com/@sonus21/gorm-association-t-1-to-1-database-query-9415481300c    
 https://blog.depa.do/post/gorm-gotchas   
 https://medium.com/@luismasuelli/lets-order-a-pizza-in-go-part-1-4d70cbabb4ae   (4-part series)
+https://stackoverflow.com/questions/63256680/adding-an-array-of-integers-as-a-data-type-in-a-gorm-model   (psql arrays)
 
 #### Data structures
 https://golang.org/doc/play/tree.go   
