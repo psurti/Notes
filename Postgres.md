@@ -6,3 +6,7 @@ https://scalegrid.io/blog/using-jsonb-in-postgresql-how-to-effectively-store-ind
 
 #### Regex in PostgreQL
 https://devlog.hexops.com/2021/postgres-regex-search-over-10000-github-repositories    
+
+
+#### Database antipatterns
+https://www.slideshare.net/billkarwin/sql-antipatterns-strike-back/   
