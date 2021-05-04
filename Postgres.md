@@ -10,3 +10,6 @@ https://devlog.hexops.com/2021/postgres-regex-search-over-10000-github-repositor
 
 #### Database antipatterns
 https://www.slideshare.net/billkarwin/sql-antipatterns-strike-back/   
+
+#### Pandas with SQL
+https://hakibenita.com/sql-for-data-analysis  
