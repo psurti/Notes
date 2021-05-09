@@ -73,6 +73,7 @@ https://blog.depa.do/post/gorm-gotchas
 https://medium.com/@luismasuelli/lets-order-a-pizza-in-go-part-1-4d70cbabb4ae   (4-part series)
 https://stackoverflow.com/questions/63256680/adding-an-array-of-integers-as-a-data-type-in-a-gorm-model   (psql arrays)
 https://github.com/go-gorm/gorm/issues/3585  (root->branch-leaf example)
+https://github.com/go-gorm/gorm/issues/3450  (custom join table)
 
 #### Data structures
 https://golang.org/doc/play/tree.go   
