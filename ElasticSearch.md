@@ -27,3 +27,6 @@ https://medium.com/tinder-engineering/how-we-improved-our-performance-using-elas
 abacus 
 linden
 
+##### Parallel Sliced Scrolls
+https://hackernoon.com/parallel-scan-scroll-an-elasticsearch-index-db02583d10d1   
+
