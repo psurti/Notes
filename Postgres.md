@@ -13,3 +13,6 @@ https://www.slideshare.net/billkarwin/sql-antipatterns-strike-back/
 
 #### Pandas with SQL
 https://hakibenita.com/sql-for-data-analysis  
+
+#### Hierarchical SQL
+https://hoverbear.org/blog/postgresql-hierarchical-structures/
