@@ -44,6 +44,7 @@
 
 ## Variety blogs
 1. https://wgtwo.com/blog   
+2  https://www.gareth-evans.com   
 
 
 
