@@ -72,6 +72,10 @@ Running a pod in K8s and running a command in the cluster
 kubectl run curl-debug-march --image=radial/busyboxplus:curl -i --tty --rm --generator=run-pod/v1
 ```
 
+##### git-sync
+https://dev.betterdoc.org/software/engineering,/kubernetes,/devops/2020/08/07/accessing-a-github-repository-within-kubernetes-via-a-sidecar-container.html   
+
+
 Useful Commands:
 ```shell
 kubectl -n <namespace-name> describe pod <pod name>
