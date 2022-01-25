@@ -52,6 +52,10 @@ https://medium.com/@marcus.olsson/writing-a-go-client-for-your-restful-api-c193a
 #### Go lang - enums
 https://yourbasic.org/golang/iota/    
 
+#### Go lang - slice to slice-pointers
+https://stackoverflow.com/questions/48459846/convert-slice-of-string-to-slice-of-pointer-to-string   
+
+
 #### Good Go Makefile
 https://kodfabrik.com/journal/a-good-makefile-for-go
 
