@@ -85,3 +85,7 @@ https://golang.org/doc/play/tree.go
 https://gist.github.com/fearblackcat/02970015071e63487d964f28f78d938c   
 https://medium.com/analytics-vidhya/how-to-speed-up-a-tree-structure-traversal-in-go-cd4bd6775520   
 https://ieftimov.com/post/golang-datastructures-trees/   
+
+
+#### Go Channels
+https://johncodes.com/posts/golang-performance/   
