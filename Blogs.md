@@ -33,8 +33,7 @@
 33. https://jhall.io/posts/   
 34. https://www.alexedwards.net/blog/   
 35. https://dionhaefner.github.io/   
-
-
+36. https://xkqr.org/profile
 
 
 
@@ -44,7 +43,7 @@
 
 ## Variety blogs
 1. https://wgtwo.com/blog   
-2  https://www.gareth-evans.com   
+2. https://www.gareth-evans.com   
 
 
 
