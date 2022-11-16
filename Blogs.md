@@ -35,7 +35,6 @@
 35. https://dionhaefner.github.io/   
 36. https://xkqr.org/profile
 37. https://karimfanous.substack.com/p/how-do-you-interview-a-vp-of-engineering  
-38. https://www.lefttravel.com/product-prioritization-feature-buckets/
 
 
 
