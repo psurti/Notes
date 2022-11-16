@@ -3,3 +3,7 @@ https://github.com/bigchaindb/BEPs/tree/master/13
 
 # Fast Development
 https://medium.com/@alonronin/0-to-production-in-30-minutes-9716b89e0668   
+
+# Feature Planning
+https://www.lefttravel.com/product-prioritization-feature-buckets/   
+
