@@ -38,7 +38,8 @@
 38. https://www.fastcompany.com/90814937/follow-these-4-steps-to-create-psychological-safety-in-your-teams
 39. https://madebyevan.com/   
 40. https://madebyevan.com/algos/   
-41. 
+41. https://www.inkandswitch.com/   
+42. 
 
 
 
