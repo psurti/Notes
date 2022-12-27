@@ -40,7 +40,8 @@
 40. https://madebyevan.com/algos/   
 41. https://www.inkandswitch.com/   
 42. https://shiffman.net/learning/   
-43. 
+43. https://notes.eatonphil.com/   
+44. 
 
 
 
