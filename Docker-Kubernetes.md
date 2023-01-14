@@ -96,3 +96,7 @@ kubectl delete ns developer
 
 
 ```
+
+### Securing k8s services
+https://blog.cloud66.com/setting-up-secure-endpoints-in-kubernetes
+
