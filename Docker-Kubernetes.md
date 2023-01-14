@@ -101,3 +101,5 @@ kubectl delete ns developer
 https://blog.cloud66.com/setting-up-secure-endpoints-in-kubernetes
 ### Scale down all pods in a namespace to save money
 https://www.middlewareinventory.com/blog/kubectl-scale-down-all-pods-deployments-in-namespace-kubernetes/
+### Secure Multi Cluster Communication
+https://www.portshift.io/blog/secure-multi-cluster-connectivity/
