@@ -103,3 +103,5 @@ https://blog.cloud66.com/setting-up-secure-endpoints-in-kubernetes
 https://www.middlewareinventory.com/blog/kubectl-scale-down-all-pods-deployments-in-namespace-kubernetes/
 ### Secure Multi Cluster Communication
 https://www.portshift.io/blog/secure-multi-cluster-connectivity/
+https://www.solo.io/blog/cross-cluster-service-communication/  
+
