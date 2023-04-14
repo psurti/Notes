@@ -16,3 +16,6 @@ https://hakibenita.com/sql-for-data-analysis
 
 #### Hierarchical SQL
 https://hoverbear.org/blog/postgresql-hierarchical-structures/
+
+#### ISolation  Levels
+https://hackernoon.com/postgresql-transaction-isolation-levels-with-go-examples-lt5g3yh5
