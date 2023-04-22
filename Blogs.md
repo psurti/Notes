@@ -41,7 +41,8 @@
 41. https://www.inkandswitch.com/   
 42. https://shiffman.net/learning/   
 43. https://notes.eatonphil.com/   
-44. 
+44. https://artem.krylysov.com/blog/   
+45. 
 
 
 
