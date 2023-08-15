@@ -43,7 +43,8 @@
 43. https://notes.eatonphil.com/   
 44. https://artem.krylysov.com/blog/   
 45. https://bbengfort.github.io/
-46. 
+46. https://preslav.me/posts/
+47. 
 
 
 
