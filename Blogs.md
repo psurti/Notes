@@ -47,7 +47,8 @@
 47. https://www.aadhav.me/posts
 48. https://www.joemcb.com/resume
 49. https://robertheaton.com/
-50. 
+50. https://www.golanginterview.dev/questions/
+51. 
 
 
 
