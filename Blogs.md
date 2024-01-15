@@ -50,7 +50,8 @@
 50. https://www.golanginterview.dev/questions/
 51. https://www.elizeire.com/
 52. https://blog.bytebytego.com/
-53. 
+53. https://www.arp242.net/
+54. 
 
 
 
