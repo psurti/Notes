@@ -471,7 +471,7 @@
 | BuildArtifact | Build Artifacts... | Select and build artifacts configured in the project | | |
 | CallHierarchy.BaseOnThisMethod | Base on This Method |  | | |
 | CallInlineCompletionAction | Call Inline Completion | Generate a suggestion for the current cursor position and show it as inline | | |
-| CallSaul.on.file | Repair IDE on {0,choice,0#File|2#Files} |  | | |
+| CallSaul.on.file | Repair IDE on {0,choice,0File2Files} |  | | |
 | CallSaul | Repair IDE | Run cache diagnostic and try recover its state | | |
 | ChangeCodeStyleScheme | Code Style Scheme | Change current code style scheme | | |
 | ChangeColorScheme | Editor Color Scheme | Change current editor color scheme | | |
@@ -917,7 +917,7 @@
 | GenerateXmlTag | XML Tag... | Generate a new XML tag according to schema information | | |
 | GoToLastTab | Select the Last Tab | Activate the last tab | | |
 | GoToLinkTarget | Go to Link Target | Opens a target of this symlink in the Project View | | |
-| GoToTab | Select Tab #{0} | Activate tab #{0} | | |
+| GoToTab | Select Tab {0} | Activate tab #{0} | | |
 | GotoDeclaration.MainMenu | Declaration or Usages |  | | |
 | GotoDeclarationOnly.MainMenu | Declaration |  | | |
 | GotoDeclarationOnly | Go to Declaration | Navigate to the declaration of the symbol at caret | | |
@@ -1591,9 +1591,9 @@
 | Vcs.CopyCommitSubjectAction | Copy Commit Subject | Copy subjects of selected commits to the clipboard | | |
 | Vcs.CopyRevisionNumberAction | Copy Revision Number | Copy revision numbers of selected commits to the clipboard | | |
 | Vcs.Diff.EnableDisableCombinedDiff | Show All Files in One Diff View |  | | |
-| Vcs.Diff.ExcludeChangedLinesFromCommit.template | {0,choice,0#|1#Split Chunk and |2#Split Chunks and }Exclude {1,choice,0#Current Line|2#Selected Lines} from Commit |  | | |
+| Vcs.Diff.ExcludeChangedLinesFromCommit.template | {0,choice,01Split Chunk and 2Split Chunks and }Exclude {1,choice,0Current Line2Selected Lines} from Commit |  | | |
 | Vcs.Diff.ExcludeChangedLinesFromCommit | Split Chunks and Exclude Selected Lines from Commit |  | | |
-| Vcs.Diff.IncludeChangedLinesIntoCommit.template | {0,choice,0#|1#Split Chunk and |2#Split Chunks and }Include {1,choice,0#Current Line|2#Selected Lines} into Commit |  | | |
+| Vcs.Diff.IncludeChangedLinesIntoCommit.template | {0,choice,01Split Chunk and 2Split Chunks and }Include {1,choice,0Current Line2Selected Lines} into Commit |  | | |
 | Vcs.Diff.IncludeChangedLinesIntoCommit | Split Chunks and Include Selected Lines into Commit |  | | |
 | Vcs.Diff.IncludeWholeChangedLinesIntoCommit | Include Lines into Commit |  | | |
 | Vcs.Diff.ResolveConflictsInImports | Resolve Conflicts in Import Statements |  | | |
