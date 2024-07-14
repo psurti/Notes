@@ -1,5 +1,5 @@
-|ID|Name|Description|Shortcut
-| --- | --- | --- | ---------- |
+|ID|Name|Description|Shortcut|
+| --- | --- | --- | -------------------- |
 |$Copy|_Copy|Copy to clipboard|`control c`<br>`control insert`<br>|
 |$Cut|Cu_t|Cut to clipboard|`control x`<br>`shift delete`<br>|
 |$Delete|_Delete|Delete selected item|`delete`<br>|
