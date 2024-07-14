@@ -2,7 +2,7 @@
 
 # Editing
 
-| Shortcut | Description | Emacs Modifications
+| Shortcut | Description | Emacs Key Conflict
 | --- | --- | ---
 | Ctrl + Space | Basic code completion (the name of any class, method or variable) |
 | Ctrl + Shift + Space | Smart code completion (filters the list of methods and variables by expected type) |
