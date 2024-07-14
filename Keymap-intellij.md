@@ -1,4 +1,4 @@
-# Keymap
+# JetBrains IntelliJ Keymap [ with Emacs Mods ]
 
 # Editing
 
