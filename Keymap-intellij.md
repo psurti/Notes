@@ -10,7 +10,7 @@
 | Ctrl + P | Parameter info (within method call arguments) |
 | Ctrl + Q | Quick documentation lookup |
 | Shift + F1 | External Doc |
-| Ctrl +!KRYHU | Brief Info |
+| Ctrl + hover | Brief Info |
 | Ctrl + F1 | Show descriptions of error or warning at caret |
 | Alt + Insert | Generate code... (Getters, Setters, Constructors, hashCode/equals, toString) |
 | Ctrl + O | Override methods |
