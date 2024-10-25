@@ -53,7 +53,8 @@
 53. https://www.arp242.net/
 54. https://alexmanrique.com/blog/
 55. https://lewismetcalf.com/
-56. 
+56. https://www.sheshbabu.com/posts/graph-retrieval-using-postgres-recursive-ctes/
+57. 
 
 
 
