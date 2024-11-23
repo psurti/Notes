@@ -54,7 +54,8 @@
 54. https://alexmanrique.com/blog/
 55. https://lewismetcalf.com/
 56. https://www.sheshbabu.com/posts/graph-retrieval-using-postgres-recursive-ctes/
-57. 
+57. https://www.joshwcomeau.com/blog/the-end-of-frontend-development/
+58. 
 
 
 
