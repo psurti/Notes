@@ -56,7 +56,8 @@
 56. https://www.sheshbabu.com/posts/graph-retrieval-using-postgres-recursive-ctes/
 57. https://www.joshwcomeau.com/blog/the-end-of-frontend-development/
 58. https://victoriametrics.com/blog/categories/go-@-victoriametrics/
-59. 
+59. https://mtlynch.io/
+60. 
 
 
 
