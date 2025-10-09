@@ -59,7 +59,8 @@
 59. https://mtlynch.io/
 60. https://www.jtolio.com/
 61. https://jub0bs.com/posts/
-62. 
+62. https://skoredin.pro/#services
+63. 
 
 
 
