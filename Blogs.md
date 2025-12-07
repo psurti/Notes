@@ -60,7 +60,8 @@
 60. https://www.jtolio.com/
 61. https://jub0bs.com/posts/
 62. https://skoredin.pro/#services
-63. 
+63. https://journal.hexmos.com/page/2/
+64.
 
 
 
