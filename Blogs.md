@@ -61,7 +61,8 @@
 61. https://jub0bs.com/posts/
 62. https://skoredin.pro/#services
 63. https://journal.hexmos.com/page/2/
-64.
+64. https://lorentz.app/blog.html
+
 
 
 
