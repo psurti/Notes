@@ -62,6 +62,7 @@
 62. https://skoredin.pro/#services
 63. https://journal.hexmos.com/page/2/
 64. https://lorentz.app/blog.html
+65. https://philz.dev
 
 
 
