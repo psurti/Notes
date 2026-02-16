@@ -63,6 +63,7 @@
 63. https://journal.hexmos.com/page/2/
 64. https://lorentz.app/blog.html
 65. https://philz.dev
+66. https://parthsareen.com
 
 
 
