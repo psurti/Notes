@@ -66,7 +66,7 @@
 66. https://parthsareen.com
 67. https://www.ombharatiya.com
 68. https://internals-for-interns.com
-
+69. https://curiouscoding.nl
 
 
 
