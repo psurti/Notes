@@ -67,6 +67,7 @@
 67. https://www.ombharatiya.com
 68. https://internals-for-interns.com
 69. https://curiouscoding.nl
+70. https://www.waylandz.com
 
 
 
